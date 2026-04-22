@@ -8,13 +8,18 @@
     ],
     "dateparution": "2026-03-28",
     "nomacheteur": "COMMUNE DE MARTIGUES",
-    "titulaire": [],
+    "titulaire": [
+      "PRO A PRO",
+      "POMONA EPISAVEURS"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-124081"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-31677",
-    "LOTS": [],
+    "LOTS": [
+      "Commune de Martigues - Fourniture de denrées alimentaires de type épicerie, biscuiterie et produits déshydratés divers"
+    ],
     "Duree_initiale_mois": 7,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -84,13 +89,17 @@
     ],
     "dateparution": "2026-03-20",
     "nomacheteur": "Centre Hospitalier Intercommunal de Toulon la Seyne sur Mer",
-    "titulaire": [],
+    "titulaire": [
+      "CRENO S&P"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-109976"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-28638",
-    "LOTS": [],
+    "LOTS": [
+      "Fruits et légumes"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 6,
@@ -122,7 +131,14 @@
     ],
     "dateparution": "2026-03-19",
     "nomacheteur": "Caisse des Ecoles Aix en Provence",
-    "titulaire": [],
+    "titulaire": [
+      "MIDI VOLAILLES",
+      "POMONA TERRE AZUR PROVENCE LANGUEDOC",
+      "SYSCO FRANCE SAS",
+      "TRANSGOURMET OPERATIONS",
+      "FROMAGERIE LEMARIE",
+      "PRO A PRO"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-53299"
@@ -163,7 +179,12 @@
     ],
     "dateparution": "2026-03-18",
     "nomacheteur": "Mairie de Salon de Provence",
-    "titulaire": [],
+    "titulaire": [
+      "LANGUEDOC LOZERE VIANDE",
+      "ALAZARD ET ROUX",
+      "SYSCO FRANCE",
+      "PRO A PRO DISTRIBUTION"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-117550"
@@ -201,13 +222,17 @@
     ],
     "dateparution": "2026-03-15",
     "nomacheteur": "G.C.S.P.A - Groupement Coopération Sanitaire Pays d'Aix",
-    "titulaire": [],
+    "titulaire": [
+      "POMONA"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-107762"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-26433",
-    "LOTS": [],
+    "LOTS": [
+      "Achat de charcuteries crues et cuites"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 1,
     "duree_reconduction_mois": 4,
@@ -277,7 +302,24 @@
     ],
     "dateparution": "2026-02-25",
     "nomacheteur": "Cté Cnes Rhône Lez Provence",
-    "titulaire": [],
+    "titulaire": [
+      "DISTRISUD",
+      "PASSIONFROID LANGUEDOC ROUSSILLON",
+      "PRO A PRO",
+      "NATURE A TABLE SAS",
+      "EPISAVEURS SUD EST SAS",
+      "ETS RIBOT",
+      "SOCIETE DE DISTRIBUTION AVICOLE",
+      "BIGARD",
+      "SOCOPA Viandes",
+      "LES JARDINS DE SOLENE",
+      "TERRE AZUR PROVENCE LANGUEDOC",
+      "PROVENCE PRIMEURS",
+      "ESPRI RESTAURATION",
+      "ALPES FRAIS PRODUCTION",
+      "SYSCO France SAS",
+      "PASSION FRUIT"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-133415"
@@ -315,13 +357,26 @@
     ],
     "dateparution": "2026-02-22",
     "nomacheteur": "MAIRIE D'AUBAGNE",
-    "titulaire": [],
+    "titulaire": [
+      "SALADE 2 FRUITS",
+      "ALPAGEL DEVELOPPEMENT",
+      "PRO A PRO",
+      "KRUT DISTRIBUTION",
+      "POMONA EPISAVEURS"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-111943"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-18132",
-    "LOTS": [],
+    "LOTS": [
+      "Fruits, légumes frais et produits de gamme 4 et 5 pour St Vincent les Forts",
+      "Produits surgelés et viandes sous vide pour St Vincent les Forts",
+      "B.O.F et charcuterie pour St Vincent les Forts",
+      "Epicerie, conserves et divers pour St Vincent les Forts",
+      "Sachets repas pique-nique pour St Vincent les Forts",
+      "Boissons et produits d'épicerie divers  pour les services de la Commune"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 4,
@@ -353,7 +408,26 @@
     ],
     "dateparution": "2026-02-18",
     "nomacheteur": "EHPAD Résidence du Soleil",
-    "titulaire": [],
+    "titulaire": [
+      "PRO A PRO MIRAMAS",
+      "EPISAVEURS SUD EST",
+      "RESEAU KRILL - PRENOT GUINARD",
+      "PASSIONFROID LANGUEDOC ROUSSILLON",
+      "BERNARD",
+      "SO.DI.AL",
+      "SOCIETE DISTRIBUTIONS AVICOLE - ANCENIS",
+      "COLIN RHD",
+      "TERREAZUR PROVENCE LANGUEDOC",
+      "VERPRIM SODICAV",
+      "TRANSGOURMET MEDITERRANEE",
+      "FRANCE FRAIS - MEDITERRANEE PERNES LES FONTAINES",
+      "ESPRI RESTAURATION",
+      "SYSCO BEZIERS",
+      "PROXIDELICE",
+      "SALADE 2 FRUITS",
+      "LOCALIZZ",
+      "FRANCE CULINAIRE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-99233"
@@ -391,7 +465,16 @@
     ],
     "dateparution": "2026-02-12",
     "nomacheteur": "CCAS de La Seyne-sur-Mer (83)",
-    "titulaire": [],
+    "titulaire": [
+      "SALADE 2 FRUITS",
+      "SOOPRIM",
+      "SYSCO",
+      "FELIX POTIN",
+      "MIDI VIANDES",
+      "TRANSGOURMET",
+      "NY RESTAURATION",
+      "CAVES PROVENCALES LABOROI"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-14754",
@@ -427,7 +510,27 @@
     ],
     "dateparution": "2026-02-10",
     "nomacheteur": "EHPAD Oustau Di Daillan",
-    "titulaire": [],
+    "titulaire": [
+      "PRO A PRO MIRAMAS",
+      "EPISAVEURS SUD EST",
+      "RESEAU KRILL - PRENOT GUINARD",
+      "PASSIONFROID LANGUEDOC ROUSSILLON",
+      "BERNARD",
+      "TERREAZUR PROVENCE-LANGUEDOC",
+      "SOCIETE DISTRIBUTIONS AVICOLE - ANCENIS",
+      "COLIN RHD",
+      "SYSCO BEZIERS",
+      "TRANSGOURMET MEDITERRANEE",
+      "FRANCE FRAIS - MEDITERRANEE PERNES LES FONTAINES",
+      "ESPRI RESTAURATION",
+      "BDG+",
+      "CRENO - TOP MEDITERRANEE",
+      "CRENO - BALICCO PROVENCE",
+      "LOCALIZZ",
+      "SALADE 2 FRUITS MAILLANE",
+      "PROXIDELICE",
+      "AMELI PROVENCE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-99215"
@@ -465,7 +568,9 @@
     ],
     "dateparution": "2026-02-10",
     "nomacheteur": "Ville de Marseille",
-    "titulaire": [],
+    "titulaire": [
+      "Société Française de Restauration et Services"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-110431"
@@ -503,7 +608,26 @@
     ],
     "dateparution": "2026-02-06",
     "nomacheteur": "Mairie de Piolenc",
-    "titulaire": [],
+    "titulaire": [
+      "PRO A PRO MIRAMAS",
+      "EPISAVEURS SUD EST",
+      "RESEAU KRILL - PRENOT GUINARD",
+      "PASSIONFROID LANGUEDOC ROUSSILLON",
+      "BERNARD",
+      "TERREAZUR PROVENCE-LANGUEDOC",
+      "SOCIETE DISTRIBUTIONS AVICOLE - ANCENIS",
+      "COLIN RHD",
+      "FRANCE FRAIS MEDITERRANEE PERNES LES FONTAINES",
+      "SYSCO BEZIERS",
+      "BIOCOOP SE SEC/ULF",
+      "TRANSGOURMET MEDITERRANEE",
+      "ESPRI RESTAURATION",
+      "MARIE DE LIVINHAC",
+      "SO.DI.AL",
+      "LOCALIZZ",
+      "CRENO - BALICCO PROVENCE",
+      "SALADE 2 FRUITS MAILLANE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-99247"
@@ -541,11 +665,18 @@
     ],
     "dateparution": "2026-01-30",
     "nomacheteur": "VILLE DE CHATEAUNEUF LES MARTIGUES",
-    "titulaire": [],
+    "titulaire": [
+      "SAS ALAZARD ET ROUX",
+      "SAS SYSCO FRANCE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-9867",
-    "LOTS": [],
+    "LOTS": [
+      "FOURNITURES DE DENREES ALIMENTAIRES\\nLOT 1 VIANDE ROUGE FRAICHE",
+      "FOURNITURES DE DENREES ALIMENTAIRES\\nLOT 2 VIANDE BLANCHE FRAICHE",
+      "FOURNITURES DE DENREES ALIMENTAIRES\\nLOT 3 VIANDES SURGELEES"
+    ],
     "Duree_initiale_mois": null,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -579,11 +710,15 @@
     ],
     "dateparution": "2026-01-22",
     "nomacheteur": "Métropole Aix Marseille Provence",
-    "titulaire": [],
+    "titulaire": [
+      "FRANCE BOISSONS SUD EST"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-7142",
-    "LOTS": [],
+    "LOTS": [
+      "Achat de boissons non alcoolisées pour la Métropole Aix Marseille Provence"
+    ],
     "Duree_initiale_mois": null,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -618,11 +753,15 @@
     ],
     "dateparution": "2026-01-15",
     "nomacheteur": "PLATEFORME COMMISSARIAT DE RAMBOUILLET",
-    "titulaire": [],
+    "titulaire": [
+      "la boulangere"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-3941",
-    "LOTS": [],
+    "LOTS": [
+      "fournitures de petits pains longue conservation"
+    ],
     "Duree_initiale_mois": null,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -654,13 +793,28 @@
     ],
     "dateparution": "2026-01-08",
     "nomacheteur": "MAIRIE DE VEDENE",
-    "titulaire": [],
+    "titulaire": [
+      "POMONA",
+      "SYSCO FRANCE SAS",
+      "LANGUEDOC LOZERE VIANDE",
+      "Société de Distribution Avicole SAS",
+      "POMONA EPISAVEURS"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-94046"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-1317",
-    "LOTS": [],
+    "LOTS": [
+      "Produits surgelés : Légumes, viandes, plats préparés et desserts",
+      "Poissons surgelés",
+      "Viandes fraiches (hors volailles)",
+      "Volailles fraiches",
+      "Charcuteries",
+      "Produits laitiers et ovoproduits",
+      "Epicerie sèche et boissons",
+      "Produits surgelés, frais et d'épicerie issus de l'agriculture biologique"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 1,
     "duree_reconduction_mois": 6,
@@ -692,13 +846,40 @@
     ],
     "dateparution": "2026-01-06",
     "nomacheteur": "CCAS de Toulon",
-    "titulaire": [],
+    "titulaire": [
+      "SYSCO FRANCE SAS",
+      "MIDI VIANDES",
+      "ETS RAMPAL",
+      "POMONA",
+      "ATYPIQUE",
+      "FELIX POTIN COTE D'AZUR",
+      "ADAPEI VAR MEDITERRANEE",
+      "LFB",
+      "NUTRISENS FRANCE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-60506"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-303",
-    "LOTS": [],
+    "LOTS": [
+      "Produits surgelés ou congelés  (Conventionnel, Ab, Siqo)",
+      "Viandes de boucherie, frais ou réfrigérés Boeuf & Veau & Agneau (Conventionnel, Ab, Siqo)",
+      "Viandes de Porc, frais ou réfrigérés  (Conventionnel, Ab, Siqo)",
+      "Viandes de Volailles et Lapins, frais ou réfrigérés (Conventionnel, Ab, Siqo)",
+      "Charcuteries (autres que surgelés ou en conserve appertisée) : salaisons, charcuteries crues, cuite). (Conventionnel, Ab, Siqo)",
+      "Fruits et légumes crus et préparés 4e et 5e gamme  (préparés et réfrigérés) (Conventionnel, Ab, Siqo)",
+      "Fruits et légumes Frais  (Conventionnel, Siqo)",
+      "Fruits et légumes Frais (Ab)",
+      "Boissons (Conventionnelles, Ab, Siqo)",
+      "Vins - Marché réservé",
+      "Produits laitiers et avicoles (autres que surgelés)  (Conventionnel, Ab, Siqo)",
+      "Pâtisserie fraiche",
+      "épicerie : produits divers, fonds, compotes, fruits au sirop, biscuits, desserts, petits déjeuners (Conventionnel, Ab, Siqo)",
+      "Eau gélifiée lyophilisée",
+      "Entrées et plats mixés en frais et surgelés",
+      "Compléments alimentaires - Nutriments pour supplémentation orale"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 2,
     "duree_reconduction_mois": 6,
@@ -768,13 +949,27 @@
     ],
     "dateparution": "2025-12-31",
     "nomacheteur": "HOPITAUX DE PROVENCE",
-    "titulaire": [],
+    "titulaire": [
+      "SYSCO FRANCE SAS",
+      "POMONA",
+      "NUTRISENS FRANCE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-106182"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-142881",
-    "LOTS": [],
+    "LOTS": [
+      "Viandes Crues",
+      "Poissons Crus Poissons Enrobes Precuits Ou Cuits Et Produits De La Mer Crus Blanchis Ou Precu",
+      "Aromates Et Legumes Crus Ou Blanchis",
+      "Legumes Et Purees Cuits",
+      "Pommes De Terre",
+      "Viande Egrenee Cuite",
+      "Desserts Ingredients Patisserie Et Viennoiseries",
+      "Plats Cuisines Et Produits Elabores",
+      "Poelees Et Melanges De Legumes, Legumineuses Et Cereales Cuits"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -844,13 +1039,20 @@
     ],
     "dateparution": "2025-12-24",
     "nomacheteur": "COMMUNE D'ISTRES",
-    "titulaire": [],
+    "titulaire": [
+      "AU GERMIER LEVAIN"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-105756"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-141487",
-    "LOTS": [],
+    "LOTS": [
+      "Fourniture de pains frais de 400g issus de l'agriculture biologique",
+      "Fourniture de petits pains frais de 90g issus de l'agriculture biologique ou d'un label reconnu «Egalim» ou pouvant être comptabilisé dans le pourcentage des produits «Egalim»",
+      "Fourniture de pains frais de 400g aux céréales ou complets issus de l'agriculture biologique",
+      "Fourniture de pains aux céréales ou complets issus de l'agriculture biologique ou d'un label reconnu «Egalim » ou pouvant être comptabilisé dans le pourcentage des produits « Egalim »"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 6,
@@ -882,13 +1084,32 @@
     ],
     "dateparution": "2025-12-23",
     "nomacheteur": "VILLE DES PENNES MIRABEAU",
-    "titulaire": [],
+    "titulaire": [
+      "POMONA EPISAVEURS",
+      "SYSCO FRANCE SAS",
+      "POMONA",
+      "PLDP",
+      "SOCIETE DE FABRICATION DE CHARCUTERIE",
+      "Biocoop Restauration",
+      "TRANSGOURMET OPERATIONS"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-97227"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-141150",
-    "LOTS": [],
+    "LOTS": [
+      "épicerie et boissons standards ou éco responsables",
+      "Surgelés standards ou éco responsables",
+      "Produits laitiers, Bof et traiteur standards ou éco responsables",
+      "Fruits et légumes frais de saison standards ou labelisés, à faible impact environnemental et en circuit court",
+      "Viandes fraîches et charcuteries standards ou éco responsables",
+      "épicerie Bio",
+      "Surgelés Bio",
+      "Produits laitiers Bio",
+      "oeufs frais Plein air Bio",
+      "Produits en circuit court - Développement durable"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 4,
@@ -920,13 +1141,19 @@
     ],
     "dateparution": "2025-12-21",
     "nomacheteur": "Ville d'Arles",
-    "titulaire": [],
+    "titulaire": [
+      "SYSCO FRANCE SAS",
+      "PASSION FROID groupe POMONA SA"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-75679"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-140588",
-    "LOTS": [],
+    "LOTS": [
+      "Produits surgelés hors produits halieutiques",
+      "Produits halieutiques surgelés"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 4,
@@ -998,7 +1225,15 @@
     ],
     "dateparution": "2025-11-22",
     "nomacheteur": "Mairie de villeneuve loubet",
-    "titulaire": [],
+    "titulaire": [
+      "SCIC 06 A TABLE",
+      "PASSIONFROID",
+      "NATURDIS",
+      "BIOCOOP RESTAURATION",
+      "EPISAVEURS GROUPE POMONA",
+      "DTV",
+      "LA FERME DES GRENOUILLES"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-63273"
@@ -1036,13 +1271,19 @@
     ],
     "dateparution": "2025-11-09",
     "nomacheteur": "SIVAAD",
-    "titulaire": [],
+    "titulaire": [
+      "BIOFINESSE",
+      "MIDI VIANDES"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-89192"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-124350",
-    "LOTS": [],
+    "LOTS": [
+      "Db03-Viande de porc Bio fraîche ou surgelée",
+      "Dc04-Viande fraîche de veau piècée à la demande"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -1112,13 +1353,17 @@
     ],
     "dateparution": "2025-10-21",
     "nomacheteur": "ASSISTANCE PUBLIQUE HÔPITAUX DE MARSEILLE",
-    "titulaire": [],
+    "titulaire": [
+      "Maison Cesar Clot Bey"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-70046"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-116769",
-    "LOTS": [],
+    "LOTS": [
+      "2025-0440 Fourniture, Conditionnement Et Livraison De Pains Et Viennoiseries Repartis Par Services Pour La Prestation Du Petit Dejeuner De L'Ap-Hm"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -1150,13 +1395,17 @@
     ],
     "dateparution": "2025-10-17",
     "nomacheteur": "Ville d'Avignon",
-    "titulaire": [],
+    "titulaire": [
+      "LES JARDINS DE SOLENE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-24231"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-115161",
-    "LOTS": [],
+    "LOTS": [
+      "24s0069 - Marché public de fourniture et livraison de légumes et fruits de 4ème gamme issus de l'agriculture biologique, Hve et conventionnelle (Marché réservé aux structures du handicap - Article L. 2113-12 du Code de la commande publique)"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -1188,13 +1437,17 @@
     ],
     "dateparution": "2025-10-17",
     "nomacheteur": "Ville d'Avignon",
-    "titulaire": [],
+    "titulaire": [
+      "POMONA EPISAVEURS"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-3540"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-115158",
-    "LOTS": [],
+    "LOTS": [
+      "Affaire 24s0078 - Fourniture et livraison de produits d'épicerie issus de l'agriculture biologique ou équivalent"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -1226,13 +1479,20 @@
     ],
     "dateparution": "2025-10-12",
     "nomacheteur": "Ville de Gardanne",
-    "titulaire": [],
+    "titulaire": [
+      "L'Arbre à Pains",
+      "PAIN ET CANTINE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-67232"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-112879",
-    "LOTS": [],
+    "LOTS": [
+      "Fourniture de pain de tradition - Tournée Nord",
+      "Fourniture de pain de tradition - Tournée Sud",
+      "Fourniture de viennoiseries, pâtisseries fraîches, pizzas et produits traiteurs"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 6,
@@ -1340,14 +1600,20 @@
     ],
     "dateparution": "2025-08-21",
     "nomacheteur": "Metropole Toulon-Provence-Mediterranee",
-    "titulaire": [],
+    "titulaire": [
+      "COLLECTAL SARL",
+      "SAS TAPIERO"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-23942",
       "25-14896"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-93384",
-    "LOTS": [],
+    "LOTS": [
+      "Lot 1 : Fourniture et livraison de bio-seaux pour la collecte des biodéchets",
+      "Lot 2 : Fourniture et livraison de sac krafts pour la collecte des biodéchets"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 1,
     "duree_reconduction_mois": 6,
@@ -1379,13 +1645,19 @@
     ],
     "dateparution": "2025-08-09",
     "nomacheteur": "Département des Bouches-du-Rhône",
-    "titulaire": [],
+    "titulaire": [
+      "LE SAINT SAS",
+      "VERPRIM - SODICAV SAS",
+      "SAVEUR GRAND MARCHE DE PROVENCE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-129868"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-90643",
-    "LOTS": [],
+    "LOTS": [
+      "ACCORD-CADRE A BONS DE COMMANDE RELATIF A LA FOURNITURE DE FRUITS ET LEGUMES FRAIS DESTINES AUX SERVICES DE RESTAURATION SCOLAIRE DES COLLEGES DU DEPARTEMENT ADHERENTS DE LA CENTRALE D'ACHAT"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 6,
@@ -1417,13 +1689,48 @@
     ],
     "dateparution": "2025-08-07",
     "nomacheteur": "Commune de Brignoles",
-    "titulaire": [],
+    "titulaire": [
+      "SYSCO France",
+      "PRO A PRO DISTRIBUTION SUD",
+      "PASSION FROID groupe POMONA",
+      "FELIX POTIN PROVENCE",
+      "BIGARD",
+      "LERDA - GENERALE FRIGORIFIQUE DISTRIBUTION",
+      "TERREAZUR - Groupe POMONA",
+      "BIOCOOP RESTAURATION",
+      "S.D.A. Société de Distribution Avicole",
+      "ETS MOULIN - Le Pain au naturel Bio",
+      "SAS NY RSTAURATION",
+      "LAFITAU Frères"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-3923"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-89624",
-    "LOTS": [],
+    "LOTS": [
+      "Lot n° 1 : Viandes surgelées",
+      "Lot n° 2 : Produits de la mer surgelés",
+      "Lot n° 3 : Légumes et pommes de terre surgelés",
+      "Lot n° 4 : Préparations alimentaires composites surgelées",
+      "Lot n° 5 : Pâtes fraîches",
+      "Lot n° 6 : Viandes fraîches",
+      "Lot n° 7 : Viandes fraîches de volailles",
+      "Lot n° 8 : Charcuterie et viandes cuites",
+      "Lot n° 9 : Poissons frais",
+      "Lot n° 10 : Fruits et légumes",
+      "Lot n° 12 : Fromages",
+      "Lot n° 11 : Produits laitiers et avicoles",
+      "Lot n° 14 : Conserves",
+      "Lot n° 15 : Epicerie - Condiments - Féculents - Produits déshydratés",
+      "Lot n° 16 : Biscuits",
+      "Lot n° 17 : Produits surgelés BIO",
+      "Lot n° 18 : Produits laitiers et avicoles BIO",
+      "Lot n° 19 : Epicerie BIO",
+      "Lot n° 20 : Fruits et légumes BIO",
+      "Lot n° 21 : Viandes fraîches BIO",
+      "Lot n° 22 : Viandes de volailles BIO"
+    ],
     "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -1455,13 +1762,17 @@
     ],
     "dateparution": "2025-07-22",
     "nomacheteur": "Ville de Toulon",
-    "titulaire": [],
+    "titulaire": [
+      "COMPAGNIE MEDITERRANEENE DES CAFES"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-36321"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-82967",
-    "LOTS": [],
+    "LOTS": [
+      "Appel d'offres ouvert en vue d'un accord-cadre à commandes de fourniture de café, thé et consommables associés avec mise à disposition d'un percolateur professionnel, pour le Café Culturel de la Médiathèque Chalucet"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 1,
     "duree_reconduction_mois": 6,
@@ -1493,13 +1804,20 @@
     ],
     "dateparution": "2025-07-17",
     "nomacheteur": "Département du Var",
-    "titulaire": [],
+    "titulaire": [
+      "sooprim",
+      "DORINA SUD",
+      "POMONA"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-22545"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-80794",
-    "LOTS": [],
+    "LOTS": [
+      "Fourniture de fruits, légumes et pommes de terre frais en l'état ou élaborés (autres que surgelés, en conserve appertisée ou secs) issus de l'agriculture conventionnelle et biologique pour les besoins des services du Centre Départemental de l'Enfance du V",
+      "Fourniture de fruits, légumes et pommes de terre frais en l'état ou élaborés (autres que surgelés, en conserve appertisée ou secs) issus de l'agriculture conventionnelle et biologique pour les besoins du service de la Direction Médias et Evénementiel (Dme"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 4,
@@ -1531,13 +1849,27 @@
     ],
     "dateparution": "2025-07-13",
     "nomacheteur": "ASSISTANCE PUBLIQUE HÔPITAUX DE MARSEILLE",
-    "titulaire": [],
+    "titulaire": [
+      "JOASSAN FRERES",
+      "SOCIETE BERNARD",
+      "Société de Distribution Avicole SAS",
+      "ESPRI RESTAURATION",
+      "ALAZARD ET ROUX"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-29963"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-79525",
-    "LOTS": [],
+    "LOTS": [
+      "Viandes Bovines Et Ovines Crues Sous Vides Et Sous Atmosphere",
+      "Viande De Porc Crue Sous Vide",
+      "Volailles Crues",
+      "Viandes Cuites Sous Vide",
+      "Jambon Et Epaule",
+      "Charcuterie, Pates Et Saucisserie",
+      "Viandes Filiere Excellence"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -1569,7 +1901,16 @@
     ],
     "dateparution": "2025-07-06",
     "nomacheteur": "Ville d'Allauch",
-    "titulaire": [],
+    "titulaire": [
+      "SARL SOFAC",
+      "ESPRI RESTAURATION",
+      "SYSCO FRANCE SAS",
+      "POMONA PASSION FROID",
+      "PRO A PRO DISTRIBUTION SUD EST SAS",
+      "MANGER BIO EN PROVENCE",
+      "PLDP (LOCALIZZ)",
+      "PASSION FRUITS"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-16645"
@@ -1607,7 +1948,17 @@
     ],
     "dateparution": "2025-06-29",
     "nomacheteur": "Ville de Pertuis (84)",
-    "titulaire": [],
+    "titulaire": [
+      "ALAZARD ET ROUX",
+      "ESPRI RESTAURATION",
+      "SOCOPA",
+      "MIDI VOLAILLES",
+      "SYSCO FRANCE",
+      "PASSION FRUITS",
+      "POMONA EPISAVEURS",
+      "PASSION FROID GROUPE POMONA",
+      "PRENOT GUINARD"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-72541",
@@ -1681,7 +2032,9 @@
     ],
     "dateparution": "2025-06-03",
     "nomacheteur": "Ville de Marseille",
-    "titulaire": [],
+    "titulaire": [
+      "SARL KRUT DISTRIBUTION"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-8728"
@@ -1720,7 +2073,9 @@
     ],
     "dateparution": "2025-05-14",
     "nomacheteur": "Ville de Pérols",
-    "titulaire": [],
+    "titulaire": [
+      "SARL AKTÉ SERVICES"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-15600"
@@ -1758,13 +2113,18 @@
     ],
     "dateparution": "2025-04-10",
     "nomacheteur": "CONSEIL DEPARTEMENTAL DU VAR",
-    "titulaire": [],
+    "titulaire": [
+      "POMONA"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-137862"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-40206",
-    "LOTS": [],
+    "LOTS": [
+      "Fourniture de viande et charcuterie fraîches conditionnées sous-vide pour les besoins des services du Centre Départemental de l'Enfance du Var - secteur Le Pradet",
+      "Fourniture de viande et charcuterie fraîches conditionnées sous-vide pour les besoins des services du du Centre Départemental de l'Enfance du Var - secteur Draguignan"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -1796,7 +2156,14 @@
     ],
     "dateparution": "2025-03-29",
     "nomacheteur": "Mairie de Trets",
-    "titulaire": [],
+    "titulaire": [
+      "EUROPE PRIMEUR DISTRIBUTION",
+      "GEPHI",
+      "PASSION FROID GROUPE POMONA",
+      "SYSCO FRANCE",
+      "PRO A PRO",
+      "TEC BOULANGERIE L'ATELIER"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-139682"
@@ -1834,7 +2201,14 @@
     ],
     "dateparution": "2025-03-23",
     "nomacheteur": "Ville d'Entraigues sur la Sorgue (84)",
-    "titulaire": [],
+    "titulaire": [
+      "PRO A PRO DISTRIBUTION SUD",
+      "POMONA EPISAVEURS SUD EST",
+      "DISTRISUD",
+      "POMONA PASSION FROID",
+      "ETABLISSEMENTS RIBOT",
+      "SALADE 2 FRUITS"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-32443",
@@ -1870,7 +2244,9 @@
     ],
     "dateparution": "2025-03-16",
     "nomacheteur": "SIVAAD (83)",
-    "titulaire": [],
+    "titulaire": [
+      "PASSION FROID"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-29356",
@@ -1906,7 +2282,30 @@
     ],
     "dateparution": "2025-02-22",
     "nomacheteur": "Centre Dép Enfance et Famille",
-    "titulaire": [],
+    "titulaire": [
+      "PRO A PRO MIRAMAS",
+      "EPISAVEURS SUD EST",
+      "RESEAU KRILL - PRENOT GUINARD",
+      "PASSIONFROID LANGUEDOC ROUSSILLON",
+      "FRANCE FRAIS - DISTRISUD PERNES LES FONTAINES",
+      "SO.DI.AL",
+      "SOCIETE DISTRIBUTIONS AVICOLE - ANCENIS",
+      "VDR - GUILLET",
+      "ESPRI RESTAURATION",
+      "VERPRIM SODICAV",
+      "CRENO - BALICCO PROVENCE",
+      "CRENO - TOP MEDITERRANEE",
+      "MARGAIN MAREE",
+      "PROVENCES PRIMEURS",
+      "MERICQ",
+      "COLIN RHD",
+      "CAP TRAITEUR",
+      "BIOCOOP SUD EST",
+      "GOURMALLIANCE",
+      "BDG +",
+      "LOCALIZZ",
+      "BERNARD"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-100518"
@@ -1944,13 +2343,19 @@
     ],
     "dateparution": "2025-02-09",
     "nomacheteur": "Département des Bouches-du-Rhône",
-    "titulaire": [],
+    "titulaire": [
+      "SAS DISTRISUD",
+      "PASSION FROID GROUPE POMONA"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-57676"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-14573",
-    "LOTS": [],
+    "LOTS": [
+      "FOURNITURE DE PRODUITS LAITIERS ET OVO-PRODUITS DESTINES AUX SERVICES DE RESTAURATION SCOLAIRE DES COLLEGES DU DEPARTEMENT ADHERENTS DE LA CENTRALE D'ACHAT - 2 LOTS\\nLot n° 01 : Beurre, oeuf, ultra-frais",
+      "FOURNITURE DE PRODUITS LAITIERS ET OVO-PRODUITS DESTINES AUX SERVICES DE RESTAURATION SCOLAIRE DES COLLEGES DU DEPARTEMENT ADHERENTS DE LA CENTRALE D'ACHAT - 2 LOTS\\nLot n° 02 : Fromage, lait, crème"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 6,
@@ -1982,14 +2387,38 @@
     ],
     "dateparution": "2025-01-17",
     "nomacheteur": "HOPITAUX DE PROVENCE",
-    "titulaire": [],
+    "titulaire": [
+      "NUTRISENS FRANCE",
+      "ESPRI RESTAURATION",
+      "MAISON CESAR CLOT BEY",
+      "POMONA TERRE AZUR",
+      "SOCIETE GEPHI",
+      "POMONA PASSION FROID"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-89019",
       "24-90308"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-5217",
-    "LOTS": [],
+    "LOTS": [
+      "Hors D'Oeuvre Mixes Sales",
+      "Viandes, Poissons Et oeufs Cuisines Mixes Sales Et Sans Gluten",
+      "Viandes, Poissons Et oeufs Cuisines Mixes Pauvres En Sel Et Sans Gluten",
+      "Purees De Legumes Cuisines Et Feculents Cuisines Mixes Sales",
+      "Preparations Mixees",
+      "Plats Complets Mixes Sucres / Sales Hyperprotidiques Sans Gluten",
+      "Plats Complets Mixes",
+      "Viandes, oeuf Et Poisson Hachees Moulees Sous Forme De Bouchees Salees, Sans Gluten",
+      "Desserts Mixes Hyperprotidiques",
+      "Haches Fins Cuits Natures Et Cuisines Pauvres En Sel",
+      "Produits De Boulangerie Et Patisserie",
+      "Fruits, Legumes Conventionnels Et Portions De Fruits Murs A Point",
+      "Fruits Et Legumes Certifies",
+      "Plats Elabores Sous Atmosphere",
+      "Pates Fraiches Pates Fraiches Farcies Et Gnocchis",
+      "Plats Et Salades Traiteur 5 Eme Gamme"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -2021,13 +2450,26 @@
     ],
     "dateparution": "2025-01-16",
     "nomacheteur": "Département des Bouches-du-Rhône",
-    "titulaire": [],
+    "titulaire": [
+      "SAS PRIMAREST",
+      "MIDI VOLAILLES",
+      "SAS DISTRISUD",
+      "SAS ALAZARD ET ROUX",
+      "SARL JOASSAN FRERES"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-36935"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-5009",
-    "LOTS": [],
+    "LOTS": [
+      "FOURNITURE DE PRODUITS CARNES FRAIS DESTINES AUX SERVICES DE RESTAURATION SCOLAIRE DES COLLEGES DU DEPARTEMENT ADHERENTS DE LA CENTRALE D'ACHAT\\nLOT 1 : BOEUF, VEAU, AGNEAU",
+      "FOURNITURE DE PRODUITS CARNES FRAIS DESTINES AUX SERVICES DE RESTAURATION SCOLAIRE DES COLLEGES DU DEPARTEMENT ADHERENTS DE LA CENTRALE D'ACHAT\\nLOT 2 : PORC",
+      "FOURNITURE DE PRODUITS CARNES FRAIS DESTINES AUX SERVICES DE RESTAURATION SCOLAIRE DES COLLEGES DU DEPARTEMENT ADHERENTS DE LA CENTRALE D'ACHAT\\nLOT 3  : CHARCUTERIE",
+      "FOURNITURE DE PRODUITS CARNES FRAIS DESTINES AUX SERVICES DE RESTAURATION SCOLAIRE DES COLLEGES DU DEPARTEMENT ADHERENTS DE LA CENTRALE D'ACHAT\\nLOT 4 : VOLAILLES",
+      "FOURNITURE DE PRODUITS CARNES FRAIS DESTINES AUX SERVICES DE RESTAURATION SCOLAIRE DES COLLEGES DU DEPARTEMENT ADHERENTS DE LA CENTRALE D'ACHAT\\nLOT 5 : Produits filière d'excellence - Taureau",
+      "FOURNITURE DE PRODUITS CARNES FRAIS DESTINES AUX SERVICES DE RESTAURATION SCOLAIRE DES COLLEGES DU DEPARTEMENT ADHERENTS DE LA CENTRALE D'ACHAT\\nLOT 6 : Produits filière d'excellence - Porc"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 6,
@@ -2104,7 +2546,14 @@
     ],
     "dateparution": "2025-01-14",
     "nomacheteur": "Chambre de Commerce et d'Industrie de Vaucluse",
-    "titulaire": [],
+    "titulaire": [
+      "POMONA PASSION FROID",
+      "PROVENCE PRIMEURS",
+      "ELITE MAREE",
+      "LA CHEVILLE PROVENCALE",
+      "SAS HUGON ET JEAN",
+      "LA MAISON DU BON CAFE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-32524"
@@ -2142,13 +2591,30 @@
     ],
     "dateparution": "2025-01-12",
     "nomacheteur": "Commune d'Auriol",
-    "titulaire": [],
+    "titulaire": [
+      "sooprim",
+      "PRO A PRO",
+      "SYSCO FRANCE SAS",
+      "ETABLISSEMENTS RIBOT",
+      "ALAZARD ET ROUX",
+      "POMONA",
+      "PLDP"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-77285"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-3113",
-    "LOTS": [],
+    "LOTS": [
+      "Fruits et légumes",
+      "épicerie",
+      "Produits surgelés",
+      "Volailles fraîches",
+      "Viandes fraîches",
+      "Beurre - oeufs - Fromages - Produits laitiers",
+      "Viandes cuites et charcuterie",
+      "Produits développement durable"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 4,
@@ -2218,13 +2684,17 @@
     ],
     "dateparution": "2025-01-08",
     "nomacheteur": "G.C.S.P.A - Groupement Coopération Sanitaire Pays d'Aix",
-    "titulaire": [],
+    "titulaire": [
+      "OH GRAIN DE BLE II"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-118744"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-1032",
-    "LOTS": [],
+    "LOTS": [
+      "Achats De Pain Frais"
+    ],
     "Duree_initiale_mois": 3,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 3,
@@ -2256,13 +2726,17 @@
     ],
     "dateparution": "2025-01-08",
     "nomacheteur": "G.C.S.P.A - Groupement Coopération Sanitaire Pays d'Aix",
-    "titulaire": [],
+    "titulaire": [
+      "PRO A PRO"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-110947"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-1013",
-    "LOTS": [],
+    "LOTS": [
+      "Fourniture de produits alimentaires Epicerie de type jus et sauces"
+    ],
     "Duree_initiale_mois": 3,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 3,
@@ -2294,7 +2768,12 @@
     ],
     "dateparution": "2025-01-01",
     "nomacheteur": "Mairie de la Roque d'Anthéron",
-    "titulaire": [],
+    "titulaire": [
+      "SYSCO France",
+      "PRO A PRO",
+      "PDLP LOCALIZZ",
+      "MANGER BIO EN PROVENCE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-115464"
@@ -2370,7 +2849,9 @@
     ],
     "dateparution": "2024-12-19",
     "nomacheteur": "Chambre de Commerce et d'Industrie de Vaucluse",
-    "titulaire": [],
+    "titulaire": [
+      "SAS POMONA EPISAVEURS SUD-EST"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-77234"
@@ -2576,7 +3057,15 @@
       "24-72277"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-128308",
-    "LOTS": [],
+    "LOTS": [
+      "Charcuterie",
+      "Viandes et volailles fraîches",
+      "Produits surgelés",
+      "Epicerie",
+      "Beurre - oeufs - Fromage - Produits laitiers",
+      "Fruits et légumes",
+      "Fruits et légumes issus de l'agriculture biologique"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 4,
@@ -2614,7 +3103,13 @@
       "24-6258"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-125096",
-    "LOTS": [],
+    "LOTS": [
+      "Viandes de boeuf crues fraîches",
+      "Viandes de veau crues fraîches",
+      "Viandes de porc crues fraîches",
+      "Viandes de taureau crues fraîches",
+      "Viandes de boeuf Bio crues fraîches"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 4,
@@ -2652,7 +3147,9 @@
       "24-64618"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-117676",
-    "LOTS": [],
+    "LOTS": [
+      "Fournitures et livraisons de produits de boulangerie"
+    ],
     "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -2690,7 +3187,9 @@
       "24-73406"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-113126",
-    "LOTS": [],
+    "LOTS": [
+      "Achats de fruits et légumes frais"
+    ],
     "Duree_initiale_mois": 3,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 3,
@@ -2726,7 +3225,9 @@
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-107290",
-    "LOTS": [],
+    "LOTS": [
+      "Fourniture De Fruits Et Légumes Frais Et De 4ème Et 5ème Gamme Au Bénéfice Du Centre Hospitalier édouard Toulouse"
+    ],
     "Duree_initiale_mois": null,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -2842,7 +3343,9 @@
       "24-44450"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-105448",
-    "LOTS": [],
+    "LOTS": [
+      "Fourniture Et Livraison De Denrees Alimentaires - Produits de charcuterie"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -3033,7 +3536,9 @@
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-91447",
-    "LOTS": [],
+    "LOTS": [
+      "FOURNITURE DE PRODUITS D'EPICERIE DESTINES AUX SERVICES DE RESTAURATION SCOLAIRE DES COLLEGES DU DEPARTEMENT ADHERENTS DE LA CENTRALE D'ACHAT"
+    ],
     "Duree_initiale_mois": null,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -3222,7 +3727,10 @@
       "24-14291"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-70397",
-    "LOTS": [],
+    "LOTS": [
+      "Fourniture de produits laitiers, avicoles et pâtes fraîches destinés à la préparation des repas institutionnels par le service cuisine de la Direction Médias et Evénementiel (Dme) du Conseil Départemental du Var",
+      "Fourniture de produits laitiers, avicoles et pâtes fraîches destinés à la restauration collective du Centre Départemental de l'Enfance du Var"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 4,
@@ -3258,7 +3766,9 @@
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-66339",
-    "LOTS": [],
+    "LOTS": [
+      "Accord-cadre à bons de commande pour la fourniture de \\ndenrées agroalimentaires pour le parc animalier du \\nDépartement des Bouches-du-Rhône 3 lots"
+    ],
     "Duree_initiale_mois": null,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -3296,7 +3806,9 @@
       "24-16061"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-65943",
-    "LOTS": [],
+    "LOTS": [
+      "Relance Après Déclaration Sans Suite\\nLot 1 - Fourniture de produits d'épicerie destinés à la préparation des repas institutionnels par le service cuisine de la Direction médias et événementiel (Dme) du Conseil Départemental du Var"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 4,
@@ -3370,7 +3882,9 @@
       "24-32979"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-62158",
-    "LOTS": [],
+    "LOTS": [
+      "Achats de pains divers et viennoiseries"
+    ],
     "Duree_initiale_mois": 3,
     "nb_reconductions": 1,
     "duree_reconduction_mois": 3,
@@ -3444,7 +3958,9 @@
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-53022",
-    "LOTS": [],
+    "LOTS": [
+      "Boissons alcoolisés, vins et spiritueux"
+    ],
     "Duree_initiale_mois": null,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -3486,7 +4002,17 @@
       "24-9537"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-51687",
-    "LOTS": [],
+    "LOTS": [
+      "Lot 1 Epicerie pour l'ensemble des 7 CFAR de la CMAR PACA",
+      "Lot 2 Crémerie, produits frais, laitiers et ovo produits pour l'ensemble des 7 CFAR de la CMAR PACA",
+      "Lot 3 Produis surgelés pour l'ensemble des 7 CFAR de la CMAR PACA",
+      "Lot 5 Pâtisserie pour l'ensemble des 7 CFAR de la CMAR PACA",
+      "Lot 6 Viandes fraîches et Volailles pour les CFAR Campus Les Arcs, Le Beausset et Saint Maximin",
+      "Lot 7 Viandes fraîches et Volailles pour le CFAR Campus Avignon",
+      "Lot 9 Produits de la mer frais pour les CFAR Campus Les Arcs, Le Beausset et Saint Maximin",
+      "Lot 10 Fruits et légumes frais pour les CFAR Campus Les Arcs, Le Beausset et Saint Maximin",
+      "Lot 11 Fruits et légumes frais pour le CFAR Campus de Digne Les Bains"
+    ],
     "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -3528,7 +4054,16 @@
       "24-9536"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-50894",
-    "LOTS": [],
+    "LOTS": [
+      "Farines CFAR Campus Les Arcs, Le Beausset, Saint Maximin",
+      "Farines CFAR Campus d'Avignon",
+      "Fruits et légumes frais CFAR Campus d'Avignon",
+      "Fruits et légumes frais CFAR Campus de Gap",
+      "Charcuterie CFAR Campus Les Arcs, Le Beausset, Saint Maximin",
+      "Charcuterie CFAR Campus d'Avignon",
+      "Charcuterie CFAR Campus de Gap",
+      "Charcuterie CFAR Campus Digne Les Bains"
+    ],
     "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -3564,7 +4099,11 @@
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-41111",
-    "LOTS": [],
+    "LOTS": [
+      "Fourniture de produits alimentaires surgelés ou congelés destinés à la préparation des repas institutionnels par le service cuisine de la Dari du Conseil Départemental du Var",
+      "Fourniture de produits d'épicerie destinés à la restauration collective du Centre Départemental de l'Enfance du Var",
+      "Fourniture de produits alimentaires surgelés ou congelés destinés à la restauration collective du Centre Départemental de l'Enfance du Var"
+    ],
     "Duree_initiale_mois": null,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -3602,7 +4141,9 @@
       "24-7778"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-41432",
-    "LOTS": [],
+    "LOTS": [
+      "Fourniture De Pains Frais Et Viennoiseries Pour Le Groupement Des Commandes Hôtelières"
+    ],
     "Duree_initiale_mois": 4,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 4,
@@ -3710,7 +4251,26 @@
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-17335",
-    "LOTS": [],
+    "LOTS": [
+      "Epicerie Generale",
+      "Epicerie Generale - Labels de qualité (Cee2-Hve-Aop-Igp)",
+      "Viandes Et Charcuteries Fraiches",
+      "Viandes Et Charcuteries Fraiches - Mention Externalités environnementales (type Bleu-Blanc-Coeur)",
+      "Viandes Et Charcuteries Fraiches - Mention Siqo (Aop-Aoc-Igp-Stg-Label Rouge-Ab)",
+      "Viandes Surgelees",
+      "Viandes Surgelees - Mention Siqo (Aop-Aoc-Igp-Stg-Label Rouge-Ab)",
+      "Poissons Surgeles",
+      "Legumes Surgeles",
+      "Legumes Surgeles - Label de qualité Ce2",
+      "Legumes Surgeles - Agriculture Biologique",
+      "Produits Surgeles Elabores Et Cuisines, Sales Et Sucres",
+      "Produits Surgeles Elabores Et Cuisines, Sales Et Sucres - Agriculture Biologique",
+      "Sorbets, Glaces Et Desserts Glaces",
+      "Sorbets Et Glaces - Agriculture Biologique",
+      "Produits Laitiers",
+      "Produits Laitiers - Mention Siqo (Aop-Aoc-Igp-Stg-Label Rouge-Ab)",
+      "Alternatives Vegetariennes Et Vegetaliennes"
+    ],
     "Duree_initiale_mois": null,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -3746,7 +4306,54 @@
     "nature_libelle": "Résultat de marché",
     "annonce_lie": null,
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-8990",
-    "LOTS": [],
+    "LOTS": [
+      "Biscuits et petits déjeuners",
+      "Boissons",
+      "Charcuteries et salaisons cuites",
+      "Charcuteries et salaisons crues",
+      "Conserves de poissons",
+      "Tartes et feuilletés salés frais",
+      "Tartes et feuilletés salés surgelés",
+      "Epicerie",
+      "Légumes 4ème gamme",
+      "Légumes 4ème Gamme issus de l'agriculture biologique",
+      "Fruits de 4ème Gamme",
+      "Fruits de 5ème Gamme",
+      "Légumes de 5ème Gamme",
+      "Légumes surgelés issus de l'agriculture biologique",
+      "Fruits et légumes frais",
+      "Fruits et légumes surgelés",
+      "Légumes surgelés Ce2 ou Hve",
+      "Légumineuses et céréales vapeurs surgelés",
+      "Ovoproduits 4ème et 5ème Gamme",
+      "Ovoproduits surgelés",
+      "Pains et viennoiseries frais",
+      "Pâtisseries fraiches",
+      "Pâtisseries et viennoiseries surgelés",
+      "Pommes de terre surgelée",
+      "Produits base de céréales - Pâtes fraiches",
+      "Produits de la mer eau douce et mollusques frais",
+      "Produits de la mer eau douce et mollusques surgelés",
+      "Produits laitiers",
+      "Plats cuisinés frais",
+      "Produits traiteur surgelés",
+      "Produits traiteur végétaux bio surgelés",
+      "Terrines et saurisseries et autres produits de la mer",
+      "Produits traiteur exotique",
+      "Viandes et abats frais (boeuf, veau, porc, agneau)",
+      "Viandes et abats surgelés",
+      "Viandes et abats 5ème Gamme",
+      "Volailles fraiches",
+      "Volailles fraiches bio et Bbc",
+      "Volailles surgelées",
+      "Viandes fraiches labelisée",
+      "Fruits frais issus de l'agriculture biologique",
+      "Fruits avec sigle qualité",
+      "Légumes frais issus de l'agriculture biologique",
+      "Légumes en « local »",
+      "Sandwichs club",
+      "Lasagnes fraiches"
+    ],
     "Duree_initiale_mois": null,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
@@ -4203,10 +4810,6 @@
     "dateparution": "2024-01-05",
     "nomacheteur": "Commune de Sainte-Maxime",
     "titulaire": [
-      "[{'DENOMINATION': 'BIOCOOP RESTAURATION', 'CP': '35768', 'VILLE': 'ST GREGOIRE', 'CODE_NUTS': 'FRH03', 'PME_OUI': ''}, {'DENOMINATION': 'NATURDIS', 'CP': '06131', 'VILLE': 'GRASSE', 'CODE_NUTS': 'FRL03', 'PME_OUI': ''}]",
-      "[{'DENOMINATION': 'BIOCOOP RESTAURATION', 'CP': '35768', 'VILLE': 'ST GREGOIRE ', 'CODE_NUTS': 'FRH03', 'PME_OUI': ''}, {'DENOMINATION': 'NATURDIS', 'CP': '06131', 'VILLE': 'GRASSE', 'CODE_NUTS': 'FRL03', 'PME_OUI': ''}, {'DENOMINATION': 'SCOP UNISVERT', 'CP': '31570', 'VILLE': 'LANTA', 'CODE_NUTS': 'FRJ23', 'PME_OUI': ''}]",
-      "[{'DENOMINATION': 'POMONA TERREAZUR 83', 'CP': '83210', 'VILLE': 'LA FARLEDE', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}, {'DENOMINATION': 'DORINA SUD', 'CP': '83600', 'VILLE': 'FREJUS', 'CODE_NUTS': 'FRL05', 'PME_OUI': ''}]",
-      "[{'DENOMINATION': 'DORINA SUD', 'CP': '83600', 'VILLE': 'FREJUS', 'CODE_NUTS': 'FRL05', 'PME_OUI': ''}, {'DENOMINATION': 'POMONA TERREAZUR 83', 'CP': '83210', 'VILLE': 'LA FARLEDE', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}]",
       "DORINA SUD",
       "BIOCOOP RESTAURATION",
       "POMONA EPISAVEURS"
@@ -5561,9 +6164,6 @@
     "nomacheteur": "Commune de Bagnols en Forêt",
     "titulaire": [
       "TRANSGOURMET MEDITERRANEE",
-      "[{'DENOMINATION': 'SYSCO SOUILLAC', 'CODE_IDENT_NATIONAL': '31680701500151', 'ADRESSE': 'route de Martel', 'CP': '46200', 'VILLE': 'SOUILLAC', 'CODE_NUTS': 'FRI14', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSION FROID AIX', 'CODE_IDENT_NATIONAL': '55204499200808', 'ADRESSE': 'Rue Famille Laurens BP 36000', 'CP': '13791', 'VILLE': 'AIX EN PROVENCE', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'PME_NON': ''}]",
-      "[{'DENOMINATION': 'SYSCO SOUILLAC', 'CODE_IDENT_NATIONAL': '31680701500151', 'ADRESSE': 'route de Martel', 'CP': '46200', 'VILLE': 'SOUILLAC', 'CODE_NUTS': 'FRJ25', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'TRANSGOURMET MEDITERRANEE', 'CODE_IDENT_NATIONAL': '43392733200448', 'ADRESSE': 'ZA ECOPOLE BP 54', 'CP': '13558', 'VILLE': 'SAINT MARTIN DE CRAU', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'PME_NON': ''}]",
-      "[{'DENOMINATION': 'SYSCO SOUILLAC', 'CODE_IDENT_NATIONAL': '31680701500151', 'ADRESSE': 'route de Martel', 'CP': '46200', 'VILLE': 'SOUILLAC', 'CODE_NUTS': 'FRJ25', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSION FROID AIX', 'CODE_IDENT_NATIONAL': '55204499200808', 'ADRESSE': 'Rue Famille Laurens BP 36000', 'CP': '13791', 'VILLE': 'AIX EN PROVENCE', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'PME_NON': ''}]",
       "MIDI PRIM"
     ],
     "nature_libelle": "Résultat de marché",
@@ -8570,13 +9170,10 @@
       "EPISAVEURS SUD EST",
       "BDG+ (Bretagne Desserts Gavroche)",
       "LOCAL EN BOCAL",
-      "[{'DENOMINATION': 'PASSION FROID GROUPE POMONA', 'ADRESSE': 'MARCHE GARE - 3214 ROUTE DE MONTPELLIER -', 'CP': '30941', 'VILLE': 'NIMES CEDEX 9', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSION FROID GROUPE POMONA', 'ADRESSE': 'RUE FAMILLE LAURENS - BP 36000', 'CP': '13791', 'VILLE': 'AIX EN PROVENCE', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}]",
-      "[{'DENOMINATION': 'PASSION FROID GROUPE POMONA', 'ADRESSE': 'MARCHE GARE - 3214 ROUTE DE MONTPELLIER -', 'CP': '30941', 'VILLE': 'NIMES CEDEX 9', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSION FROID GROUPE POMONA', 'ADRESSE': 'RUE FAMILLE LAURENS - BP 36000', 'CP': '13971', 'VILLE': 'AIX-EN-PROVENCE', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}]",
       "SYSCO FRANCE",
       "SOCOPA VIANDES",
       "ALAZARD ET ROUX",
       "STE DISTRIBUTION ALVICOLE",
-      "[{'DENOMINATION': 'PROVENCE PRIMEURS', 'ADRESSE': '145 Avenue Pierre SEMARD', 'CP': '84000', 'VILLE': 'AVIGNON', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'DORINA SUD MARSEILLE', 'ADRESSE': 'MIN des Arnavaux - box 519', 'CP': '13014', 'VILLE': 'MARSEILLE', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}]",
       "VITALE"
     ],
     "nature_libelle": "Résultat de marché",
@@ -9060,10 +9657,7 @@
     "titulaire": [
       "SO BIO",
       "PASSION FROID groupe POMONA",
-      "SDA",
-      "[{'DENOMINATION': 'AGRIBIO', 'VILLE': 'LE CANNET DES MAURES', 'CODE_NUTS': 'FRL05', 'PME_OUI': ''}, {'DENOMINATION': 'NATURDIS', 'VILLE': 'GRASSE', 'CODE_NUTS': 'FRL03', 'PME_OUI': ''}, {'DENOMINATION': 'TERREAZUR Groupe Pomona', 'VILLE': 'TOULON', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}]",
-      "[{'DENOMINATION': 'DORINA', 'VILLE': 'FREJUS', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}, {'DENOMINATION': 'TERREAZUR Groupe Pomona', 'VILLE': 'TOULON', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}, {'DENOMINATION': 'NATURDIS', 'VILLE': 'GRASSE', 'CODE_NUTS': 'FRL03', 'PME_NON': ''}]",
-      "[{'DENOMINATION': 'SOBIO', 'VILLE': 'BRIGNOLES', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}, {'DENOMINATION': 'AGRIBIO', 'VILLE': 'LE CANNET DES MAURES', 'CODE_NUTS': 'FRL05', 'PME_OUI': ''}, {'DENOMINATION': 'NATURDIS', 'VILLE': 'GRASSE', 'CODE_NUTS': 'FRL03', 'PME_OUI': ''}]"
+      "SDA"
     ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
@@ -9168,8 +9762,6 @@
     "nomacheteur": "COLLEGE PAUL VALERY",
     "titulaire": [
       "BOULANGER RESPONSABLE",
-      "[{'DENOMINATION': 'EPISAVEURS GROUPE POMONA', 'VILLE': 'VEDENE', 'CODE_NUTS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'GROUPE POMONA EPISAVEURS', 'VILLE': 'VEDENE', 'CODE_NUTS': 'FR', 'PME_NON': ''}]",
-      "[{'DENOMINATION': 'GROUPE POMONA EPISAVEURS', 'VILLE': 'VEDENE', 'CODE_NUTS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'GROUPE POMONA EPISAVEURS', 'VILLE': 'VEDENE', 'CODE_NUTS': 'FR', 'PME_NON': ''}]",
       "SYSCO",
       "ETABLISSEMENT RIBOT"
     ],
@@ -10354,8 +10946,8 @@
     "nomacheteur": "Ville de Grans",
     "titulaire": [
       "PassionFroid Groupe POMONA",
-      "SDA  Société de Distribution Avicole S.A.S. ",
-      "SAS PRIMAREST ",
+      "SDA  Société de Distribution Avicole S.A.S.",
+      "SAS PRIMAREST",
       "TERRE AZUR - Groupe POMONA",
       "Sysco France SAS",
       "TRANSGOURMET MÉDITERRANÉE",
@@ -11742,17 +12334,9 @@
     "dateparution": "2021-12-25",
     "nomacheteur": "cc Rhône Lez Provence",
     "titulaire": [
-      "[{'DENOMINATION': 'Sysco France', 'ADRESSE': 'Route de Martel', 'CP': '46200', 'VILLE': 'Souillac', 'CODE_NUTS': 'FRJ25', 'PAYS': 'FR', 'TEL': '(+33) 5-65-27-60-48', 'PME_NON': ''}, {'DENOMINATION': 'Passion froid', 'ADRESSE': '3124 Route de Montpellier', 'CP': '30941', 'VILLE': 'Nimes Cedex', 'CODE_NUTS': 'FRJ12', 'PAYS': 'FR', 'PME_NON': ''}]",
-      "[{'DENOMINATION': 'La nature à table', 'ADRESSE': '28 Chemin des Charassis', 'CP': '26600', 'VILLE': \"Pont de l'Isère\", 'CODE_NUTS': 'FRK23', 'PAYS': 'FR', 'TEL': '(+33) 4-75-84-03-44', 'FAX': '(+33) 4-75-84-13-94', 'PME_NON': ''}, {'DENOMINATION': 'Pro à pro distribution sud', 'ADRESSE': 'rue du Comte de la Perouse', 'CP': '13142', 'VILLE': 'Miramas', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'TEL': '(+33) 4-90-17-73-00', 'FAX': '(+33) 4-90-17-73-01', 'PME_NON': ''}]",
-      "[{'DENOMINATION': 'Socopa viandes', 'ADRESSE': 'Route de Cosnes', 'CP': '03430', 'VILLE': \"Villefranche d'Allier\", 'CODE_NUTS': 'FRK11', 'PAYS': 'FR', 'TEL': '(+33) 4-70-02-28-28', 'FAX': '(+33) 4-70-02-29-29', 'PME_NON': ''}, {'DENOMINATION': 'Bigard', 'ADRESSE': '42 rue Ludovic Julien', 'CP': '81115', 'VILLE': 'Castres', 'CODE_NUTS': 'FRJ27', 'PAYS': 'FR', 'TEL': '(+33) 5-63-51-44-41', 'FAX': '(+33) 5-63-51-44-08', 'PME_NON': ''}]",
       "Sysco France",
-      "[{'DENOMINATION': 'Terre azur', 'ADRESSE': '200 rue Alfred Kastler', 'CP': '13133', 'VILLE': \"Berre l'Etang\", 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'TEL': '(+33) 4-42-10-95-78', 'FAX': '(+33) 4-42-10-44-13', 'PME_NON': ''}, {'DENOMINATION': 'Provence primeurs', 'ADRESSE': '135 Avenue Pierre Sémard', 'CP': '84000', 'VILLE': 'Avignon', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'TEL': '(+33) 4-90-13-41-80', 'FAX': '(+33) 4-90-13-41-89', 'PME_NON': ''}]",
       "Espri restauration",
-      "[{'DENOMINATION': 'sysco france', 'ADRESSE': 'Route de Martel', 'CP': '46200', 'VILLE': 'Souillac', 'CODE_NUTS': 'FRJ25', 'PAYS': 'FR', 'TEL': '(+33) 5-65-27-60-48', 'PME_NON': ''}, {'DENOMINATION': 'Passion froid', 'ADRESSE': '3214 route de Montpellier', 'CP': '30941', 'VILLE': 'Nimes', 'CODE_NUTS': 'FRJ12', 'PAYS': 'FR', 'TEL': '(+33) 4-66-36-90-09', 'FAX': '(+33) 4-66-84-04-94', 'PME_NON': ''}]",
-      "Alpes frais production",
-      "[{'DENOMINATION': 'sysco france', 'ADRESSE': 'Route de Martel', 'CP': '46200', 'VILLE': 'Souillac', 'CODE_NUTS': 'FRJ25', 'PAYS': 'FR', 'TEL': '(+33) 5-65-27-60-48', 'PME_NON': ''}, {'DENOMINATION': 'Passion Froid', 'ADRESSE': '3214 Route de Montpellier', 'CP': '30941', 'VILLE': 'Nîmes', 'CODE_NUTS': 'FRJ12', 'PAYS': 'FR', 'TEL': '(+33) 4-66-36-90-09', 'FAX': '(+33) 4-66-84-04-94', 'PME_NON': ''}]",
-      "[{'DENOMINATION': 'EIRL Vitale', 'ADRESSE': '659 Chemin Saint François', 'CP': '84300', 'VILLE': 'Taillades', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'TEL': '(+33) 6-25-89-79-62', 'PME_NON': ''}, {'DENOMINATION': 'Terre azur', 'ADRESSE': '200 rue Alfred Kastler', 'CP': '13133', 'VILLE': \"Berre l'Etang\", 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'TEL': '(+33) 4-42-10-95-78', 'FAX': '(+33) 4-42-10-44-43', 'PME_NON': ''}]",
-      "[{'DENOMINATION': 'EIRL VItale', 'ADRESSE': '659 Chemin saint François', 'CP': '84300', 'VILLE': 'Taillades', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'TEL': '(+33) 6-25-89-79-62', 'PME_NON': ''}, {'DENOMINATION': 'Provence Primeurs', 'ADRESSE': '135 Avenue Pierre Semard', 'CP': '84000', 'VILLE': 'Avignon', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'TEL': '(+33) 4-90-13-41-80', 'FAX': '(+33) 4-90-13-41-89', 'PME_NON': ''}]"
+      "Alpes frais production"
     ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
@@ -14876,7 +15460,6 @@
       "SAS NATURDIS",
       "MIDI VIANDES",
       "TERREAZUR 83",
-      "[{'DENOMINATION': 'MANGER BIO EN PROVENCE', 'CODE_IDENT_NATIONAL': '84418972000015', 'ADRESSE': \"Les Faysses GAEC De l'Arbre\", 'CP': '05110', 'VILLE': 'BARCILLONNETTE', 'CODE_NUTS': 'FRL02', 'PAYS': 'FR', 'PME_OUI': ''}, {'DENOMINATION': 'BIOCOOP RESTAURATION', 'CODE_IDENT_NATIONAL': '44236533400048', 'ADRESSE': 'ZA de la Morandais CS11000', 'CP': '35190', 'VILLE': 'TINTENIAC', 'CODE_NUTS': 'FRH03', 'PAYS': 'FR', 'PME_OUI': ''}]",
       "BIOFINESSE",
       "LABORATOIRE RIVADIS",
       "SDA",
