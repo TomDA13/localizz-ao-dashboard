@@ -136,8 +136,8 @@ def render_timeline(df):
         st.warning("Aucun marché avec dates de début/fin pour la timeline.")
         return
 
-    # Label court pour le Gantt
-    df_plot["Label"] = df_plot["Acheteur"].str[:40] + " — " + df_plot["Objet"].str[:40]
+    # Label court pour le Gantt — ajouter idweb pour dédupliquer les noms identiques
+    df_plot["Label"] = df_plot["Acheteur"].str[:40] + " — " + df_plot["Objet"].str[:35] + " [" + df_plot["idweb"] + "]"
 
     fig = px.timeline(
         df_plot,
