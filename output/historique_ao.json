@@ -15,14 +15,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-31677",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 7,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 7,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-08-01",
+    "date_fin_max": "2000-08-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -30,7 +30,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -52,14 +52,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-29788",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 48,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 48,
+    "Duree_totale_mois": 192,
+    "reconduction_description": "3 reconductions de 48 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2016-01-01",
+    "date_fin_max": "2016-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -67,7 +67,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -89,14 +89,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-28638",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 24,
+    "reconduction_description": "3 reconductions de 6 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2002-01-01",
+    "date_fin_max": "2002-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -104,7 +104,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -126,14 +126,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-28114",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 11,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 11,
+    "Duree_totale_mois": 44,
+    "reconduction_description": "3 reconductions de 11 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2003-09-01",
+    "date_fin_max": "2003-09-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -141,7 +141,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -166,14 +166,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-27524",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 11,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 11,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2026-01-21",
+    "date_fin": "2026-12-21",
+    "date_fin_max": "2026-12-21",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -181,7 +181,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2026-01-21",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -203,14 +203,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-26433",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 1,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 8,
+    "reconduction_description": "1 reconductions de 4 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-09-01",
+    "date_fin_max": "2000-09-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -218,7 +218,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -240,14 +240,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-25982",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 22,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 22,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2026-03-12",
+    "date_fin": "2028-01-12",
+    "date_fin_max": "2028-01-12",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -277,14 +277,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-19203",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 48,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2026-03-01",
+    "date_fin": "2030-03-01",
+    "date_fin_max": "2030-03-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -314,14 +314,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-18132",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 16,
+    "reconduction_description": "3 reconductions de 4 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-05-01",
+    "date_fin_max": "2001-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -329,7 +329,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -351,14 +351,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-16645",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 4,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-12-16",
+    "date_fin": "2026-04-16",
+    "date_fin_max": "2026-04-16",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -366,7 +366,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-12-16",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -401,7 +401,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -423,14 +423,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-13767",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 4,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-11-21",
+    "date_fin": "2026-03-21",
+    "date_fin_max": "2026-03-21",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -438,7 +438,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-11-21",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -460,14 +460,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-13839",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 24,
+    "reconduction_description": "3 reconductions de 6 mois",
+    "date_debut": "2026-01-13",
+    "date_fin": "2028-01-13",
+    "date_fin_max": "2028-01-13",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -475,7 +475,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2026-01-13",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -497,14 +497,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-12462",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 4,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-11-25",
+    "date_fin": "2026-03-25",
+    "date_fin_max": "2026-03-25",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -512,7 +512,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-11-25",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -547,7 +547,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-11-14",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -584,7 +584,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-12-18",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -622,7 +622,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-11-21",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -644,14 +644,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-1317",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 1,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 12,
+    "reconduction_description": "1 reconductions de 6 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-01-01",
+    "date_fin_max": "2001-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -659,7 +659,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -681,14 +681,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-303",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 2,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 18,
+    "reconduction_description": "2 reconductions de 6 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-07-01",
+    "date_fin_max": "2001-07-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -696,7 +696,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -718,14 +718,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-231",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 36,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 36,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2026-01-05",
+    "date_fin": "2029-01-05",
+    "date_fin_max": "2029-01-05",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -755,14 +755,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-142881",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 4,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-05-01",
+    "date_fin_max": "2000-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -770,7 +770,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -792,14 +792,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-143140",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 6,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-12-30",
+    "date_fin": "2026-06-30",
+    "date_fin_max": "2026-06-30",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -829,14 +829,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-141487",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 24,
+    "reconduction_description": "3 reconductions de 6 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2002-01-01",
+    "date_fin_max": "2002-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -844,7 +844,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -866,14 +866,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-141150",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 16,
+    "reconduction_description": "3 reconductions de 4 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-05-01",
+    "date_fin_max": "2001-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -881,7 +881,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -903,14 +903,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-140588",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 16,
+    "reconduction_description": "3 reconductions de 4 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-05-01",
+    "date_fin_max": "2001-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -918,7 +918,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -940,14 +940,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-132900",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 48,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2026-01-01",
+    "date_fin": "2030-01-01",
+    "date_fin_max": "2030-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -979,14 +979,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-128845",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 48,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-09-25",
+    "date_fin": "2029-09-25",
+    "date_fin_max": "2029-09-25",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -994,7 +994,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-09-25",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1016,14 +1016,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-124350",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 4,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-05-01",
+    "date_fin_max": "2000-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1031,7 +1031,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1053,14 +1053,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-119190",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 12,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-10-24",
+    "date_fin": "2026-10-24",
+    "date_fin_max": "2026-10-24",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1090,14 +1090,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-116769",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 6,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-07-01",
+    "date_fin_max": "2000-07-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1105,7 +1105,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1127,14 +1127,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-115161",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 6,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-07-01",
+    "date_fin_max": "2000-07-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1142,7 +1142,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1164,14 +1164,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-115158",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 6,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-07-01",
+    "date_fin_max": "2000-07-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1179,7 +1179,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1201,14 +1201,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-112879",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 24,
+    "reconduction_description": "3 reconductions de 6 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2002-01-01",
+    "date_fin_max": "2002-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1216,7 +1216,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1238,14 +1238,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-107295",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 12,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-09-26",
+    "date_fin": "2026-09-26",
+    "date_fin_max": "2026-09-26",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1275,14 +1275,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-106588",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 6,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-09-25",
+    "date_fin": "2026-03-25",
+    "date_fin_max": "2026-03-25",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1313,14 +1313,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-93384",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 1,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 12,
+    "reconduction_description": "1 reconductions de 6 mois",
+    "date_debut": "2025-05-06",
+    "date_fin": "2026-05-06",
+    "date_fin_max": "2026-05-06",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1328,7 +1328,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-05-06",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1350,14 +1350,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-90643",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 24,
+    "reconduction_description": "3 reconductions de 6 mois",
+    "date_debut": "2025-05-15",
+    "date_fin": "2027-05-15",
+    "date_fin_max": "2027-05-15",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1365,7 +1365,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-05-15",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1387,14 +1387,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-89624",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 48,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-06-03",
+    "date_fin": "2029-06-03",
+    "date_fin_max": "2029-06-03",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1402,7 +1402,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-06-03",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1424,14 +1424,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-82967",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 1,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 12,
+    "reconduction_description": "1 reconductions de 6 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-01-01",
+    "date_fin_max": "2001-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1439,7 +1439,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1461,14 +1461,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-80794",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 16,
+    "reconduction_description": "3 reconductions de 4 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-05-01",
+    "date_fin_max": "2001-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1476,7 +1476,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1498,14 +1498,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-79525",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 6,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-07-01",
+    "date_fin_max": "2000-07-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1513,7 +1513,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1535,14 +1535,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-75901",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 16,
+    "reconduction_description": "3 reconductions de 4 mois",
+    "date_debut": "2025-05-14",
+    "date_fin": "2026-09-14",
+    "date_fin_max": "2026-09-14",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1550,7 +1550,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-05-14",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1585,7 +1585,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-05-20",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1607,14 +1607,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-68687",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 6,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-07-01",
+    "date_fin_max": "2000-07-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1622,7 +1622,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1644,14 +1644,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-61090",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 6,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-04-23",
+    "date_fin": "2025-10-23",
+    "date_fin_max": "2025-10-23",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1659,7 +1659,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-04-23",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1682,14 +1682,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-53196",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 4,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-03-14",
+    "date_fin": "2025-07-14",
+    "date_fin_max": "2025-07-14",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1697,7 +1697,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-03-14",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1719,14 +1719,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-40206",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 4,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-05-01",
+    "date_fin_max": "2000-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1734,7 +1734,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1756,14 +1756,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-34990",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 12,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 12,
+    "Duree_totale_mois": 48,
+    "reconduction_description": "3 reconductions de 12 mois",
+    "date_debut": "2025-02-25",
+    "date_fin": "2029-02-25",
+    "date_fin_max": "2029-02-25",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1806,7 +1806,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1841,7 +1841,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2025-03-13",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1863,14 +1863,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-20233",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 4,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-01-01",
+    "date_fin": "2025-05-01",
+    "date_fin_max": "2025-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1900,14 +1900,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-14573",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 24,
+    "reconduction_description": "3 reconductions de 6 mois",
+    "date_debut": "2024-12-05",
+    "date_fin": "2026-12-05",
+    "date_fin_max": "2026-12-05",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1915,7 +1915,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-12-05",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1938,14 +1938,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-5217",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 6,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-07-01",
+    "date_fin_max": "2000-07-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1953,7 +1953,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -1975,14 +1975,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-5009",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 24,
+    "reconduction_description": "3 reconductions de 6 mois",
+    "date_debut": "2024-11-07",
+    "date_fin": "2026-11-07",
+    "date_fin_max": "2026-11-07",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1990,7 +1990,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-11-07",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2056,14 +2056,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-3836",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 36,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 36,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-05-24",
+    "date_fin": "2027-05-24",
+    "date_fin_max": "2027-05-24",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2071,7 +2071,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-05-24",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2093,14 +2093,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-3113",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 16,
+    "reconduction_description": "3 reconductions de 4 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-05-01",
+    "date_fin_max": "2001-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2108,7 +2108,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2130,14 +2130,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-2111",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 12,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 12,
+    "Duree_totale_mois": 48,
+    "reconduction_description": "3 reconductions de 12 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2004-01-01",
+    "date_fin_max": "2004-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2145,7 +2145,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2167,14 +2167,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-1032",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 3,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 3,
+    "Duree_totale_mois": 12,
+    "reconduction_description": "3 reconductions de 3 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-01-01",
+    "date_fin_max": "2001-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2182,7 +2182,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2204,14 +2204,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-1013",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 3,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 3,
+    "Duree_totale_mois": 12,
+    "reconduction_description": "3 reconductions de 3 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-01-01",
+    "date_fin_max": "2001-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2219,7 +2219,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2241,14 +2241,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-145829",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 12,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2025-01-01",
+    "date_fin": "2026-01-01",
+    "date_fin_max": "2026-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2278,14 +2278,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-143721",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 12,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-12-20",
+    "date_fin": "2025-12-20",
+    "date_fin_max": "2025-12-20",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2315,14 +2315,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-141913",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 33,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 33,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-10-29",
+    "date_fin": "2027-07-29",
+    "date_fin_max": "2027-07-29",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2330,7 +2330,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-10-29",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2365,7 +2365,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-10-21",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2431,14 +2431,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-134480",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 36,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 36,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-11-28",
+    "date_fin": "2027-11-28",
+    "date_fin_max": "2027-11-28",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2473,14 +2473,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-131222",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 48,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-08-19",
+    "date_fin": "2028-08-19",
+    "date_fin_max": "2028-08-19",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2510,14 +2510,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-128308",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 16,
+    "reconduction_description": "3 reconductions de 4 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-05-01",
+    "date_fin_max": "2001-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2525,7 +2525,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2547,14 +2547,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-125096",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 16,
+    "reconduction_description": "3 reconductions de 4 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-05-01",
+    "date_fin_max": "2001-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2562,7 +2562,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2584,14 +2584,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-117676",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 6,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 6,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-07-01",
+    "date_fin_max": "2000-07-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2599,7 +2599,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2621,14 +2621,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-113126",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 3,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 3,
+    "Duree_totale_mois": 12,
+    "reconduction_description": "3 reconductions de 3 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-01-01",
+    "date_fin_max": "2001-01-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2636,7 +2636,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2671,7 +2671,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2693,14 +2693,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-107028",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 24,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 24,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-09-20",
+    "date_fin": "2026-09-20",
+    "date_fin_max": "2026-09-20",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2731,14 +2731,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-105639",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 48,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-07-18",
+    "date_fin": "2028-07-18",
+    "date_fin_max": "2028-07-18",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2746,7 +2746,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-07-18",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2769,14 +2769,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-105448",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 4,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 4,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-05-01",
+    "date_fin_max": "2000-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2784,7 +2784,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2811,14 +2811,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-96211",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 12,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-07-04",
+    "date_fin": "2025-07-04",
+    "date_fin_max": "2025-07-04",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2826,7 +2826,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-07-04",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2863,7 +2863,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-05-30",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2898,7 +2898,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2920,14 +2920,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-92678",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 6,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 6,
+    "Duree_totale_mois": 24,
+    "reconduction_description": "3 reconductions de 6 mois",
+    "date_debut": "2024-07-04",
+    "date_fin": "2026-07-04",
+    "date_fin_max": "2026-07-04",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2935,7 +2935,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-07-04",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2970,7 +2970,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-05-30",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -2992,14 +2992,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-86835",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 5,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 5,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-06-01",
+    "date_fin_max": "2000-06-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -3007,7 +3007,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3030,14 +3030,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-82625",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 16,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 16,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-07-12",
+    "date_fin": "2025-11-12",
+    "date_fin_max": "2025-11-12",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -3080,7 +3080,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3102,14 +3102,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-78351",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 12,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-06-06",
+    "date_fin": "2025-06-06",
+    "date_fin_max": "2025-06-06",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -3117,7 +3117,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-06-06",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3139,14 +3139,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-70397",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 16,
+    "reconduction_description": "3 reconductions de 4 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-05-01",
+    "date_fin_max": "2001-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -3154,7 +3154,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3189,7 +3189,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-03-14",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3211,14 +3211,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-65943",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 16,
+    "reconduction_description": "3 reconductions de 4 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-05-01",
+    "date_fin_max": "2001-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -3226,7 +3226,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3261,7 +3261,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3283,14 +3283,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-62158",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 3,
+    "nb_reconductions": 1,
+    "duree_reconduction_mois": 3,
+    "Duree_totale_mois": 6,
+    "reconduction_description": "1 reconductions de 3 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2000-07-01",
+    "date_fin_max": "2000-07-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -3298,7 +3298,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3370,7 +3370,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3396,14 +3396,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-51687",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 48,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-05-01",
+    "date_fin": "2028-05-01",
+    "date_fin_max": "2028-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -3437,14 +3437,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-50894",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 48,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-05-01",
+    "date_fin": "2028-05-01",
+    "date_fin_max": "2028-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -3487,7 +3487,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3509,14 +3509,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-41432",
     "LOTS": [],
-    "Duree_initiale_mois": null,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_initiale_mois": 4,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 4,
+    "Duree_totale_mois": 16,
+    "reconduction_description": "3 reconductions de 4 mois",
+    "date_debut": "2000-01-01",
+    "date_fin": "2001-05-01",
+    "date_fin_max": "2001-05-01",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -3524,7 +3524,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3559,7 +3559,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2024-01-19",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3594,7 +3594,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2023-11-23",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3629,7 +3629,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -3664,7 +3664,7 @@
         "intitule": "",
         "titulaire": "",
         "ville_titulaire": "",
-        "date_attribution": "",
+        "date_attribution": "2000-01-01",
         "montant_ht": null,
         "nb_offres": ""
       }
@@ -4101,15 +4101,10 @@
     "dateparution": "2024-01-05",
     "nomacheteur": "Commune de Sainte-Maxime",
     "titulaire": [
-      "BIOCOOP RESTAURATION",
-      "NATURDIS",
-      "BIOCOOP RESTAURATION",
-      "NATURDIS",
-      "SCOP UNISVERT",
-      "POMONA TERREAZUR 83",
-      "DORINA SUD",
-      "DORINA SUD",
-      "POMONA TERREAZUR 83",
+      "[{'DENOMINATION': 'BIOCOOP RESTAURATION', 'CP': '35768', 'VILLE': 'ST GREGOIRE', 'CODE_NUTS': 'FRH03', 'PME_OUI': ''}, {'DENOMINATION': 'NATURDIS', 'CP': '06131', 'VILLE': 'GRASSE', 'CODE_NUTS': 'FRL03', 'PME_OUI': ''}]",
+      "[{'DENOMINATION': 'BIOCOOP RESTAURATION', 'CP': '35768', 'VILLE': 'ST GREGOIRE ', 'CODE_NUTS': 'FRH03', 'PME_OUI': ''}, {'DENOMINATION': 'NATURDIS', 'CP': '06131', 'VILLE': 'GRASSE', 'CODE_NUTS': 'FRL03', 'PME_OUI': ''}, {'DENOMINATION': 'SCOP UNISVERT', 'CP': '31570', 'VILLE': 'LANTA', 'CODE_NUTS': 'FRJ23', 'PME_OUI': ''}]",
+      "[{'DENOMINATION': 'POMONA TERREAZUR 83', 'CP': '83210', 'VILLE': 'LA FARLEDE', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}, {'DENOMINATION': 'DORINA SUD', 'CP': '83600', 'VILLE': 'FREJUS', 'CODE_NUTS': 'FRL05', 'PME_OUI': ''}]",
+      "[{'DENOMINATION': 'DORINA SUD', 'CP': '83600', 'VILLE': 'FREJUS', 'CODE_NUTS': 'FRL05', 'PME_OUI': ''}, {'DENOMINATION': 'POMONA TERREAZUR 83', 'CP': '83210', 'VILLE': 'LA FARLEDE', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}]",
       "DORINA SUD",
       "BIOCOOP RESTAURATION",
       "POMONA EPISAVEURS"
@@ -5352,9 +5347,8 @@
     "dateparution": "2023-12-06",
     "nomacheteur": "Centre Hospitalier de Montfavet",
     "titulaire": [
-      "PROVENCE PRIMEURS",
-      "SALADE 2 FRUITS",
-      "PROVENCE PRIMEUR"
+      "[{'DENOMINATION': 'PROVENCE PRIMEURS', 'CODE_IDENT_NATIONAL': '39070487200048', 'ADRESSE': '135 avenue Pierre SEMARD - MIN St. Chamand - Bât. 13', 'CP': '84000', 'VILLE': 'AVIGNON', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'TEL': '(+33) 4-90-13-41-80', 'FAX': '(+33) 4-90-13-41-89', 'MEL': 'aomp@provenceprimeurs.fr', 'PME_NON': ''}, {'DENOMINATION': 'SALADE 2 FRUITS', 'CODE_IDENT_NATIONAL': '51111892900039', 'ADRESSE': 'route de S. Remy de Provence', 'CP': '13910', 'VILLE': 'MAILLANE', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'TEL': '(+33) -61-08-74-90', 'MEL': 'marchespublics@salade2fruits.fr', 'PME_NON': ''}]",
+      "[{'DENOMINATION': \"TERRE D'AZUR\", 'CODE_IDENT_NATIONAL': '55204499201103', 'ADRESSE': '200 route Alfred KASTLER', 'CP': '13133', 'VILLE': \"BERRE L'ETANG\", 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'TEL': '(+33) 4-42-10-95-78', 'FAX': '(+33) 4-42-10-44-43', 'MEL': 'adv-provence-languedoc@terreazur.fr', 'PME_NON': ''}, {'DENOMINATION': 'PROVENCE PRIMEUR', 'CODE_IDENT_NATIONAL': '39070487200048', 'ADRESSE': '135 avenue Pierre SEMARD - MIN St. Chamand - Bât.13', 'CP': '84000', 'VILLE': 'AVIGNON', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'TEL': '(+33) 4-90-13-41-80', 'FAX': '(+33) 4-90-13-41-89', 'MEL': 'aomp@provenceprimeurs.fr', 'PME_NON': ''}]"
     ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
@@ -5448,12 +5442,9 @@
     "nomacheteur": "Commune de Bagnols en Forêt",
     "titulaire": [
       "TRANSGOURMET MEDITERRANEE",
-      "SYSCO SOUILLAC",
-      "PASSION FROID AIX",
-      "SYSCO SOUILLAC",
-      "TRANSGOURMET MEDITERRANEE",
-      "SYSCO SOUILLAC",
-      "PASSION FROID AIX",
+      "[{'DENOMINATION': 'SYSCO SOUILLAC', 'CODE_IDENT_NATIONAL': '31680701500151', 'ADRESSE': 'route de Martel', 'CP': '46200', 'VILLE': 'SOUILLAC', 'CODE_NUTS': 'FRI14', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSION FROID AIX', 'CODE_IDENT_NATIONAL': '55204499200808', 'ADRESSE': 'Rue Famille Laurens BP 36000', 'CP': '13791', 'VILLE': 'AIX EN PROVENCE', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'SYSCO SOUILLAC', 'CODE_IDENT_NATIONAL': '31680701500151', 'ADRESSE': 'route de Martel', 'CP': '46200', 'VILLE': 'SOUILLAC', 'CODE_NUTS': 'FRJ25', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'TRANSGOURMET MEDITERRANEE', 'CODE_IDENT_NATIONAL': '43392733200448', 'ADRESSE': 'ZA ECOPOLE BP 54', 'CP': '13558', 'VILLE': 'SAINT MARTIN DE CRAU', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'SYSCO SOUILLAC', 'CODE_IDENT_NATIONAL': '31680701500151', 'ADRESSE': 'route de Martel', 'CP': '46200', 'VILLE': 'SOUILLAC', 'CODE_NUTS': 'FRJ25', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSION FROID AIX', 'CODE_IDENT_NATIONAL': '55204499200808', 'ADRESSE': 'Rue Famille Laurens BP 36000', 'CP': '13791', 'VILLE': 'AIX EN PROVENCE', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'PME_NON': ''}]",
       "MIDI PRIM"
     ],
     "nature_libelle": "Résultat de marché",
@@ -5842,9 +5833,9 @@
     "duree_reconduction_mois": 12,
     "Duree_totale_mois": 12,
     "reconduction_description": "Le marché peut être reconduit par période de 12 mois par tacite reconduction de luniversité sans que sa durée totale nexcède 48 mois.",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2023-10-25",
+    "date_fin": "2024-10-25",
+    "date_fin_max": "2024-10-25",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -6573,9 +6564,9 @@
     "duree_reconduction_mois": 12,
     "Duree_totale_mois": 36,
     "reconduction_description": "L'accord-cadre pourra être reconduit 2 fois, pour une période de 12 mois, par décision expresse de la Collectivité, sans que la durée totale du marché ne puisse excéder 36 mois",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2023-06-09",
+    "date_fin": "2026-06-09",
+    "date_fin_max": "2026-06-09",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -7726,17 +7717,7 @@
     "dateparution": "2023-02-04",
     "nomacheteur": "VALAÉ",
     "titulaire": [
-      "BERNARD",
-      "BIOFINESSE",
-      "EPISAVEURS Groupe PÖMONA",
-      "ESPRI RESTAURATION",
-      "FRANCE FRAIS",
-      "GUILLET LDC",
-      "PASSIONFROID Groupe POMONA",
-      "PRO A PRO",
-      "SOCIETE DISTRIBUTION AVICOLE",
-      "SYSCO ONE",
-      "SO.DI.AL"
+      "[{'DENOMINATION': 'BERNARD', 'ADRESSE': 'Kerbethune - Moreac', 'CP': '56501', 'VILLE': 'LOCMINE', 'CODE_NUTS': 'FRH04', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'BIOFINESSE', 'ADRESSE': '1 Impasse du Marché Gare', 'CP': '31200', 'VILLE': 'TOULOUSE', 'CODE_NUTS': 'FRJ23', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'EPISAVEURS Groupe PÖMONA', 'ADRESSE': '3 Avenue du Docteur Ténine', 'CP': '94182', 'VILLE': 'ANTONY', 'CODE_NUTS': 'FR105', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'ESPRI RESTAURATION', 'ADRESSE': 'ZI de Beaufeu - CS 30018', 'CP': '72210', 'VILLE': 'ROEZE SUR SARTHE', 'CODE_NUTS': 'FRG04', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'FRANCE FRAIS', 'ADRESSE': 'Route de Comberthault', 'CP': '21200', 'VILLE': 'SAINTE MARIE LA BLANCHE', 'CODE_NUTS': 'FRC11', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'GUILLET LDC', 'ADRESSE': 'ZA le Grand Clos', 'CP': '49640', 'VILLE': 'MORANNES SUR SARTHE - DAUMERAY', 'CODE_NUTS': 'FRG02', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSIONFROID Groupe POMONA', 'ADRESSE': '3 Avenue du Docteur Ténine', 'CP': '94182', 'VILLE': 'ANTONY', 'CODE_NUTS': 'FR105', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PRO A PRO', 'ADRESSE': \"1419 Avenue d'Italie - BP 215\", 'CP': '82032', 'VILLE': 'MONTAUBAN', 'CODE_NUTS': 'FRJ28', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SOCIETE DISTRIBUTION AVICOLE', 'ADRESSE': \"ZI de l'Hermitage\", 'CP': '44154', 'VILLE': 'ANCENIS', 'CODE_NUTS': 'FRG01', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SYSCO ONE', 'ADRESSE': '140 Allée des Frênes', 'CP': '69760', 'VILLE': 'LIMONEST', 'CODE_NUTS': 'FRK26', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SO.DI.AL', 'ADRESSE': '267 Rue Roussanne - ZAC porte Sud', 'CP': '84100', 'VILLE': 'ORANGE', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}]"
     ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
@@ -8439,16 +8420,13 @@
       "EPISAVEURS SUD EST",
       "BDG+ (Bretagne Desserts Gavroche)",
       "LOCAL EN BOCAL",
-      "PASSION FROID GROUPE POMONA",
-      "PASSION FROID GROUPE POMONA",
-      "PASSION FROID GROUPE POMONA",
-      "PASSION FROID GROUPE POMONA",
+      "[{'DENOMINATION': 'PASSION FROID GROUPE POMONA', 'ADRESSE': 'MARCHE GARE - 3214 ROUTE DE MONTPELLIER -', 'CP': '30941', 'VILLE': 'NIMES CEDEX 9', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSION FROID GROUPE POMONA', 'ADRESSE': 'RUE FAMILLE LAURENS - BP 36000', 'CP': '13791', 'VILLE': 'AIX EN PROVENCE', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'PASSION FROID GROUPE POMONA', 'ADRESSE': 'MARCHE GARE - 3214 ROUTE DE MONTPELLIER -', 'CP': '30941', 'VILLE': 'NIMES CEDEX 9', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSION FROID GROUPE POMONA', 'ADRESSE': 'RUE FAMILLE LAURENS - BP 36000', 'CP': '13971', 'VILLE': 'AIX-EN-PROVENCE', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}]",
       "SYSCO FRANCE",
       "SOCOPA VIANDES",
       "ALAZARD ET ROUX",
       "STE DISTRIBUTION ALVICOLE",
-      "PROVENCE PRIMEURS",
-      "DORINA SUD MARSEILLE",
+      "[{'DENOMINATION': 'PROVENCE PRIMEURS', 'ADRESSE': '145 Avenue Pierre SEMARD', 'CP': '84000', 'VILLE': 'AVIGNON', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'DORINA SUD MARSEILLE', 'ADRESSE': 'MIN des Arnavaux - box 519', 'CP': '13014', 'VILLE': 'MARSEILLE', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}]",
       "VITALE"
     ],
     "nature_libelle": "Résultat de marché",
@@ -8927,15 +8905,9 @@
       "SO BIO",
       "PASSION FROID groupe POMONA",
       "SDA",
-      "AGRIBIO",
-      "NATURDIS",
-      "TERREAZUR Groupe Pomona",
-      "DORINA",
-      "TERREAZUR Groupe Pomona",
-      "NATURDIS",
-      "SOBIO",
-      "AGRIBIO",
-      "NATURDIS"
+      "[{'DENOMINATION': 'AGRIBIO', 'VILLE': 'LE CANNET DES MAURES', 'CODE_NUTS': 'FRL05', 'PME_OUI': ''}, {'DENOMINATION': 'NATURDIS', 'VILLE': 'GRASSE', 'CODE_NUTS': 'FRL03', 'PME_OUI': ''}, {'DENOMINATION': 'TERREAZUR Groupe Pomona', 'VILLE': 'TOULON', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'DORINA', 'VILLE': 'FREJUS', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}, {'DENOMINATION': 'TERREAZUR Groupe Pomona', 'VILLE': 'TOULON', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}, {'DENOMINATION': 'NATURDIS', 'VILLE': 'GRASSE', 'CODE_NUTS': 'FRL03', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'SOBIO', 'VILLE': 'BRIGNOLES', 'CODE_NUTS': 'FRL05', 'PME_NON': ''}, {'DENOMINATION': 'AGRIBIO', 'VILLE': 'LE CANNET DES MAURES', 'CODE_NUTS': 'FRL05', 'PME_OUI': ''}, {'DENOMINATION': 'NATURDIS', 'VILLE': 'GRASSE', 'CODE_NUTS': 'FRL03', 'PME_OUI': ''}]"
     ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
@@ -9039,10 +9011,8 @@
     "nomacheteur": "COLLEGE PAUL VALERY",
     "titulaire": [
       "BOULANGER RESPONSABLE",
-      "EPISAVEURS GROUPE POMONA",
-      "GROUPE POMONA EPISAVEURS",
-      "GROUPE POMONA EPISAVEURS",
-      "GROUPE POMONA EPISAVEURS",
+      "[{'DENOMINATION': 'EPISAVEURS GROUPE POMONA', 'VILLE': 'VEDENE', 'CODE_NUTS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'GROUPE POMONA EPISAVEURS', 'VILLE': 'VEDENE', 'CODE_NUTS': 'FR', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'GROUPE POMONA EPISAVEURS', 'VILLE': 'VEDENE', 'CODE_NUTS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'GROUPE POMONA EPISAVEURS', 'VILLE': 'VEDENE', 'CODE_NUTS': 'FR', 'PME_NON': ''}]",
       "SYSCO",
       "ETABLISSEMENT RIBOT"
     ],
@@ -10188,9 +10158,9 @@
     "duree_reconduction_mois": 0,
     "Duree_totale_mois": 12,
     "reconduction_description": "Le marché est conclu pour une période initiale de 12 mois à compter de la date de notification. Il pourra être reconduit expressément 3 fois sans que la durée totale n'excède 4 ans",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2022-07-07",
+    "date_fin": "2023-07-07",
+    "date_fin_max": "2023-07-07",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -10447,10 +10417,8 @@
     "dateparution": "2022-04-16",
     "nomacheteur": "cc Rhône Lez Provence",
     "titulaire": [
-      "Sysco France",
-      "Pomona passion froid",
-      "Société de Distribution Avicole",
-      "Etablissements RIBOT"
+      "[{'DENOMINATION': 'Sysco France', 'ADRESSE': 'Route de Martel', 'CP': '46200', 'VILLE': 'Souillac', 'CODE_NUTS': 'FRJ25', 'PAYS': 'FR', 'TEL': '(+33) 5-65-27-60-48', 'PME_NON': ''}, {'DENOMINATION': 'Pomona passion froid', 'ADRESSE': '3124 route de Montpellier', 'CP': '30941', 'VILLE': 'Nîmes cedex 9', 'CODE_NUTS': 'FRJ12', 'PAYS': 'FR', 'TEL': '(+33) 4-66-76-90-09', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'Société de Distribution Avicole', 'ADRESSE': \"ZI de l'Hermitage - BP 123\", 'CP': '44154', 'VILLE': 'Ancenis Cedex', 'CODE_NUTS': 'FRG01', 'PAYS': 'FR', 'TEL': '(+33) 2-51-14-26-38', 'PME_NON': ''}, {'DENOMINATION': 'Etablissements RIBOT', 'ADRESSE': 'Chemin des Frémigières', 'CP': '84840', 'VILLE': 'Lapalud', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'TEL': '(+33) 4-90-40-35-12', 'PME_NON': ''}]"
     ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
@@ -10794,28 +10762,8 @@
     "dateparution": "2022-02-12",
     "nomacheteur": "VALAÉ",
     "titulaire": [
-      "BERNARD",
-      "BIOFINESSE",
-      "CRENO",
-      "GUILLET - LDC RESTAURATION",
-      "EPISAVEURS Groupe POMONA",
-      "ESPRI RESTAURATION",
-      "FRANCE FRAIS",
-      "PASSIONFROID Groupe POMONA",
-      "METRO FSD France - PRO A PRO",
-      "RESEAU KRILL",
-      "PROXIDELICE",
-      "CAP TRAITEUR - NUTRISIS",
-      "COLIN RHD",
-      "SDA",
-      "SYSCO ONE",
-      "TERREAZUR Groupe POMONA",
-      "VIVALYA",
-      "BDG+",
-      "CONSERVES GUINTRAND",
-      "CREPERIE COLAS",
-      "GOURMALLIANCE",
-      "TERREAZUR PROVENCE"
+      "[{'DENOMINATION': 'BERNARD', 'ADRESSE': 'Kerbéthune-Moréac', 'CP': '56501', 'VILLE': 'LOCMINE', 'CODE_NUTS': 'FRH04', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'BIOFINESSE', 'ADRESSE': '1 Impasse du Marché Gare', 'CP': '31200', 'VILLE': 'TOULOUSE', 'CODE_NUTS': 'FRJ23', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'CRENO', 'ADRESSE': 'Impasse des Caniers', 'CP': '13160', 'VILLE': 'CHATEAURENARD', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'GUILLET - LDC RESTAURATION', 'ADRESSE': 'Z.A. Le Grand Clos', 'CP': '49640', 'VILLE': 'MORANNES SUR SARTHE - DAUMERAY', 'CODE_NUTS': 'FRG02', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'EPISAVEURS Groupe POMONA', 'ADRESSE': '3 Avenue du Docteur Ténine', 'CP': '92184', 'VILLE': 'ANTONY', 'CODE_NUTS': 'FR105', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'ESPRI RESTAURATION', 'ADRESSE': '2 Avenue Lavoisier', 'CP': '91330', 'VILLE': 'WISSOUS', 'CODE_NUTS': 'FR104', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'FRANCE FRAIS', 'ADRESSE': 'Route de Combertault', 'CP': '21200', 'VILLE': 'SAINTE MARIE LA BLANCHE', 'CODE_NUTS': 'FRC11', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSIONFROID Groupe POMONA', 'ADRESSE': '3 Avenue du Docteur Ténine', 'CP': '92184', 'VILLE': 'ANTONY', 'CODE_NUTS': 'FR105', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'METRO FSD France - PRO A PRO', 'ADRESSE': '3 Rue Voltaire', 'CP': '82000', 'VILLE': 'MONTAUBAN', 'CODE_NUTS': 'FRJ28', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'RESEAU KRILL', 'ADRESSE': '5 Rue Etienne Lenoir', 'CP': '85505', 'VILLE': 'LES HERBIERS', 'CODE_NUTS': 'FRG05', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PROXIDELICE', 'ADRESSE': '10 Rue Paule Raymondis', 'CP': '31200', 'VILLE': 'TOULOUSE', 'CODE_NUTS': 'FRJ23', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'CAP TRAITEUR - NUTRISIS', 'ADRESSE': '6 Rue Robert Moinon', 'CP': '95190', 'VILLE': 'GOUSSAINVILLE', 'CODE_NUTS': 'FR107', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'COLIN RHD', 'ADRESSE': '14 Rue Léo Lagrange', 'CP': '35131', 'VILLE': 'CHARTRES DE BRETAGNE', 'CODE_NUTS': 'FRH03', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SDA', 'ADRESSE': \"ZI de l'hermitage\", 'CP': '44154', 'VILLE': 'ANCENIS', 'CODE_NUTS': 'FRG01', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SYSCO ONE', 'ADRESSE': '140 Allée des Frênes', 'CP': '69760', 'VILLE': 'LIMONEST', 'CODE_NUTS': 'FRK26', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'TERREAZUR Groupe POMONA', 'ADRESSE': '3 Avenue du Docteur Ténine', 'CP': '92184', 'VILLE': 'ANTONY', 'CODE_NUTS': 'FR105', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'VIVALYA', 'ADRESSE': '38 Rue du Séminaire', 'CP': '94616', 'VILLE': 'RUNGIS', 'CODE_NUTS': 'FR104', 'PAYS': 'FR', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'BDG+', 'ADRESSE': '3 Rue Sous Marin Vénus', 'CP': '56324', 'VILLE': 'LORIENT', 'CODE_NUTS': 'FRH04', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'CONSERVES GUINTRAND', 'ADRESSE': 'Boulevard Gilloux et Raymond', 'CP': '84200', 'VILLE': 'CARPENTRAS', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'CREPERIE COLAS', 'ADRESSE': 'Z.A. Le Rocomps', 'CP': '35410', 'VILLE': 'CHATEAUGIRON', 'CODE_NUTS': 'FRH03', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'GOURMALLIANCE', 'ADRESSE': 'Rue du Capitaine Dreyfus', 'CP': '95132', 'VILLE': 'FRANCONVILLE', 'CODE_NUTS': 'FR108', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'TERREAZUR PROVENCE', 'ADRESSE': '200 Rue Alfred Kastler', 'CP': '13133', 'VILLE': \"BERRE L'ETANG\", 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'PME_NON': ''}]"
     ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
@@ -10887,20 +10835,7 @@
     "dateparution": "2022-02-09",
     "nomacheteur": "VALAÉ",
     "titulaire": [
-      "BERNARD",
-      "BIOFINESSE",
-      "CONSERVES GUINTRAND",
-      "CRENO",
-      "EPISAVEURS Groupe Pomona",
-      "ESPRI RESTAURATION",
-      "FRANCE FRAIS",
-      "GUILLET - LDC",
-      "PASSIONFROID Groupe Pomona",
-      "PRO A PRO",
-      "PROXIDELICE",
-      "RESEAU KRILL",
-      "SOCIETE DISTRIBUTION AVICOLE",
-      "SYSCO ONE"
+      "[{'DENOMINATION': 'BERNARD', 'ADRESSE': 'Kerbéthune-Moréac', 'CP': '56501', 'VILLE': 'LOCMINE', 'CODE_NUTS': 'FRH04', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'BIOFINESSE', 'ADRESSE': '1 Impasse du Marché Gare', 'CP': '31200', 'VILLE': 'TOULOUSE', 'CODE_NUTS': 'FRJ23', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'CONSERVES GUINTRAND', 'ADRESSE': 'Boulevard Gilloux et Raymond', 'CP': '84200', 'VILLE': 'CARPENTRAS', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'CRENO', 'ADRESSE': 'ZI des Iscles - Impasse des Caniers', 'CP': '13160', 'VILLE': 'CHATEAURENARD', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'EPISAVEURS Groupe Pomona', 'ADRESSE': '3 Avenue du Docteur Ténine', 'CP': '94182', 'VILLE': 'ANTONY', 'CODE_NUTS': 'FR105', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'ESPRI RESTAURATION', 'ADRESSE': 'ZI de Beaufeu - CS30018', 'CP': '72210', 'VILLE': 'ROEZE SUR SARTHE', 'CODE_NUTS': 'FRG04', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'FRANCE FRAIS', 'ADRESSE': 'Route de Combertault', 'CP': '21200', 'VILLE': 'SAINTE MARIE LA BLANCHE', 'CODE_NUTS': 'FRC11', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'GUILLET - LDC', 'ADRESSE': 'Z.A. Le Grand Clos', 'CP': '49640', 'VILLE': 'MORANNES/ SARTHE - DAUMERAY', 'CODE_NUTS': 'FRG02', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSIONFROID Groupe Pomona', 'ADRESSE': '3 Avenue du Docteur Ténine', 'CP': '94182', 'VILLE': 'ANTONY', 'CODE_NUTS': 'FR105', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PRO A PRO', 'ADRESSE': '3 Rue Voltaire', 'CP': '82000', 'VILLE': 'MONTAUBAN', 'CODE_NUTS': 'FRJ28', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PROXIDELICE', 'ADRESSE': '10 Rue Paule Raymondis', 'CP': '31200', 'VILLE': 'TOULOUSE', 'CODE_NUTS': 'FRJ23', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'RESEAU KRILL', 'ADRESSE': '5 Rue Etienne Lenoir', 'CP': '85505', 'VILLE': 'LES HERBIERS', 'CODE_NUTS': 'FRG05', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SOCIETE DISTRIBUTION AVICOLE', 'ADRESSE': \"ZI de l'Hermitage\", 'CP': '44154', 'VILLE': 'ANCENIS', 'CODE_NUTS': 'FRG01', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SYSCO ONE', 'ADRESSE': '140 Allée des Frênes', 'CP': '69760', 'VILLE': 'LIMONEST', 'CODE_NUTS': 'FRK26', 'PAYS': 'FR', 'PME_NON': ''}]"
     ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
@@ -11621,25 +11556,17 @@
     "dateparution": "2021-12-25",
     "nomacheteur": "cc Rhône Lez Provence",
     "titulaire": [
+      "[{'DENOMINATION': 'Sysco France', 'ADRESSE': 'Route de Martel', 'CP': '46200', 'VILLE': 'Souillac', 'CODE_NUTS': 'FRJ25', 'PAYS': 'FR', 'TEL': '(+33) 5-65-27-60-48', 'PME_NON': ''}, {'DENOMINATION': 'Passion froid', 'ADRESSE': '3124 Route de Montpellier', 'CP': '30941', 'VILLE': 'Nimes Cedex', 'CODE_NUTS': 'FRJ12', 'PAYS': 'FR', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'La nature à table', 'ADRESSE': '28 Chemin des Charassis', 'CP': '26600', 'VILLE': \"Pont de l'Isère\", 'CODE_NUTS': 'FRK23', 'PAYS': 'FR', 'TEL': '(+33) 4-75-84-03-44', 'FAX': '(+33) 4-75-84-13-94', 'PME_NON': ''}, {'DENOMINATION': 'Pro à pro distribution sud', 'ADRESSE': 'rue du Comte de la Perouse', 'CP': '13142', 'VILLE': 'Miramas', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'TEL': '(+33) 4-90-17-73-00', 'FAX': '(+33) 4-90-17-73-01', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'Socopa viandes', 'ADRESSE': 'Route de Cosnes', 'CP': '03430', 'VILLE': \"Villefranche d'Allier\", 'CODE_NUTS': 'FRK11', 'PAYS': 'FR', 'TEL': '(+33) 4-70-02-28-28', 'FAX': '(+33) 4-70-02-29-29', 'PME_NON': ''}, {'DENOMINATION': 'Bigard', 'ADRESSE': '42 rue Ludovic Julien', 'CP': '81115', 'VILLE': 'Castres', 'CODE_NUTS': 'FRJ27', 'PAYS': 'FR', 'TEL': '(+33) 5-63-51-44-41', 'FAX': '(+33) 5-63-51-44-08', 'PME_NON': ''}]",
       "Sysco France",
-      "Passion froid",
-      "La nature à table",
-      "Pro à pro distribution sud",
-      "Socopa viandes",
-      "Bigard",
-      "Sysco France",
-      "Terre azur",
-      "Provence primeurs",
+      "[{'DENOMINATION': 'Terre azur', 'ADRESSE': '200 rue Alfred Kastler', 'CP': '13133', 'VILLE': \"Berre l'Etang\", 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'TEL': '(+33) 4-42-10-95-78', 'FAX': '(+33) 4-42-10-44-13', 'PME_NON': ''}, {'DENOMINATION': 'Provence primeurs', 'ADRESSE': '135 Avenue Pierre Sémard', 'CP': '84000', 'VILLE': 'Avignon', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'TEL': '(+33) 4-90-13-41-80', 'FAX': '(+33) 4-90-13-41-89', 'PME_NON': ''}]",
       "Espri restauration",
-      "sysco france",
-      "Passion froid",
+      "[{'DENOMINATION': 'sysco france', 'ADRESSE': 'Route de Martel', 'CP': '46200', 'VILLE': 'Souillac', 'CODE_NUTS': 'FRJ25', 'PAYS': 'FR', 'TEL': '(+33) 5-65-27-60-48', 'PME_NON': ''}, {'DENOMINATION': 'Passion froid', 'ADRESSE': '3214 route de Montpellier', 'CP': '30941', 'VILLE': 'Nimes', 'CODE_NUTS': 'FRJ12', 'PAYS': 'FR', 'TEL': '(+33) 4-66-36-90-09', 'FAX': '(+33) 4-66-84-04-94', 'PME_NON': ''}]",
       "Alpes frais production",
-      "sysco france",
-      "Passion Froid",
-      "EIRL Vitale",
-      "Terre azur",
-      "EIRL VItale",
-      "Provence Primeurs"
+      "[{'DENOMINATION': 'sysco france', 'ADRESSE': 'Route de Martel', 'CP': '46200', 'VILLE': 'Souillac', 'CODE_NUTS': 'FRJ25', 'PAYS': 'FR', 'TEL': '(+33) 5-65-27-60-48', 'PME_NON': ''}, {'DENOMINATION': 'Passion Froid', 'ADRESSE': '3214 Route de Montpellier', 'CP': '30941', 'VILLE': 'Nîmes', 'CODE_NUTS': 'FRJ12', 'PAYS': 'FR', 'TEL': '(+33) 4-66-36-90-09', 'FAX': '(+33) 4-66-84-04-94', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'EIRL Vitale', 'ADRESSE': '659 Chemin Saint François', 'CP': '84300', 'VILLE': 'Taillades', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'TEL': '(+33) 6-25-89-79-62', 'PME_NON': ''}, {'DENOMINATION': 'Terre azur', 'ADRESSE': '200 rue Alfred Kastler', 'CP': '13133', 'VILLE': \"Berre l'Etang\", 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'TEL': '(+33) 4-42-10-95-78', 'FAX': '(+33) 4-42-10-44-43', 'PME_NON': ''}]",
+      "[{'DENOMINATION': 'EIRL VItale', 'ADRESSE': '659 Chemin saint François', 'CP': '84300', 'VILLE': 'Taillades', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'TEL': '(+33) 6-25-89-79-62', 'PME_NON': ''}, {'DENOMINATION': 'Provence Primeurs', 'ADRESSE': '135 Avenue Pierre Semard', 'CP': '84000', 'VILLE': 'Avignon', 'CODE_NUTS': 'FRL06', 'PAYS': 'FR', 'TEL': '(+33) 4-90-13-41-80', 'FAX': '(+33) 4-90-13-41-89', 'PME_NON': ''}]"
     ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
@@ -13427,9 +13354,9 @@
     "duree_reconduction_mois": 0,
     "Duree_totale_mois": 12,
     "reconduction_description": "L'accord-cadre pourra être reconduit 3 fois par période annuelle. La reconduction est tacite.",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2021-05-19",
+    "date_fin": "2022-05-19",
+    "date_fin_max": "2022-05-19",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -14464,17 +14391,7 @@
     "dateparution": "2021-02-13",
     "nomacheteur": "Proclub",
     "titulaire": [
-      "BERNARD",
-      "BIOFINESSE",
-      "CRENO",
-      "SYSCO DAVIGEL",
-      "EPISAVEURS Groupe POMONA",
-      "ESPRI RESTAURATION",
-      "FRANCE FRAIS",
-      "PASSIONFROID Groupe POMONA",
-      "METRO FSD France - PRO A PRO",
-      "RESEAU KRILL",
-      "PROXIDELICE"
+      "[{'DENOMINATION': 'BERNARD', 'ADRESSE': 'Kerbéthune-Moréac', 'CP': '56501', 'VILLE': 'LOCMINE', 'CODE_NUTS': 'FRH04', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'BIOFINESSE', 'ADRESSE': '1 Impasse du Marche Gare', 'CP': '31200', 'VILLE': 'TOULOUSE', 'CODE_NUTS': 'FRJ23', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'CRENO', 'ADRESSE': 'ZI DES ISCLES - Impasse des Caniers', 'CP': '13160', 'VILLE': 'CHATEAURENARD', 'CODE_NUTS': 'FRL04', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SYSCO DAVIGEL', 'ADRESSE': '14 Rue Gerty Archimède', 'CP': '75012', 'VILLE': 'PARIS 12', 'CODE_NUTS': 'FR101', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'EPISAVEURS Groupe POMONA', 'ADRESSE': '3 Avenue du Docteur Ténine', 'CP': '92184', 'VILLE': 'ANTONY', 'CODE_NUTS': 'FR105', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'ESPRI RESTAURATION', 'ADRESSE': '2 Avenue Lavoisier', 'CP': '91330', 'VILLE': 'WISSOUS', 'CODE_NUTS': 'FR104', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'FRANCE FRAIS', 'ADRESSE': 'Route de Combertault', 'CP': '21200', 'VILLE': 'SAINTE MARIE LA BLANCHE', 'CODE_NUTS': 'FRC11', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSIONFROID Groupe POMONA', 'ADRESSE': '3 Avenue du Docteur Ténine', 'CP': '92184', 'VILLE': 'ANTONY', 'CODE_NUTS': 'FR105', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'METRO FSD France - PRO A PRO', 'ADRESSE': '3 Rue Voltaire', 'CP': '82000', 'VILLE': 'MONTAUBAN', 'CODE_NUTS': 'FRJ28', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'RESEAU KRILL', 'ADRESSE': '5 Rue Etienne Lenoir', 'CP': '85505', 'VILLE': 'LES HERBIERS', 'CODE_NUTS': 'FRG05', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PROXIDELICE', 'ADRESSE': '10 Rue Paule Raymondis', 'CP': '31200', 'VILLE': 'TOULOUSE', 'CODE_NUTS': 'FRJ23', 'PAYS': 'FR', 'PME_NON': ''}]"
     ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
@@ -14735,8 +14652,7 @@
       "SAS NATURDIS",
       "MIDI VIANDES",
       "TERREAZUR 83",
-      "MANGER BIO EN PROVENCE",
-      "BIOCOOP RESTAURATION",
+      "[{'DENOMINATION': 'MANGER BIO EN PROVENCE', 'CODE_IDENT_NATIONAL': '84418972000015', 'ADRESSE': \"Les Faysses GAEC De l'Arbre\", 'CP': '05110', 'VILLE': 'BARCILLONNETTE', 'CODE_NUTS': 'FRL02', 'PAYS': 'FR', 'PME_OUI': ''}, {'DENOMINATION': 'BIOCOOP RESTAURATION', 'CODE_IDENT_NATIONAL': '44236533400048', 'ADRESSE': 'ZA de la Morandais CS11000', 'CP': '35190', 'VILLE': 'TINTENIAC', 'CODE_NUTS': 'FRH03', 'PAYS': 'FR', 'PME_OUI': ''}]",
       "BIOFINESSE",
       "LABORATOIRE RIVADIS",
       "SDA",
@@ -16846,9 +16762,9 @@
     "duree_reconduction_mois": 0,
     "Duree_totale_mois": 48,
     "reconduction_description": "trois (3) - Nombre de reconduction. Le marché pourra être reconduit pour un (1) an, au plus tôt à compter de la date à laquelle le montant maxi sera atteint, ou au plus tard, au terme d'un délai d'un (1) an à compter de sa date de notification ou de sa date de reconduction",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2020-09-18",
+    "date_fin": "2024-09-18",
+    "date_fin_max": "2024-09-18",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -17445,9 +17361,9 @@
     "duree_reconduction_mois": 12,
     "Duree_totale_mois": 24,
     "reconduction_description": "Le marché est conclu pour une durée de 1 an (12 mois) à compter de sa prise d'effet, tacitement renouvelable 1 fois pour la même durée, sans toutefois, excéder 2 ans (24 mois)",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2020-07-11",
+    "date_fin": "2022-07-11",
+    "date_fin_max": "2022-07-11",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -17537,9 +17453,9 @@
     "duree_reconduction_mois": 12,
     "Duree_totale_mois": 12,
     "reconduction_description": "Nombre de périodes de reconduction fixé à 3, durée de chaque période de reconduction de 1 an, et durée maximale du contrat, toutes périodes confondues, de 4 ans",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2020-06-18",
+    "date_fin": "2021-06-18",
+    "date_fin_max": "2021-06-18",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -18669,18 +18585,7 @@
     "dateparution": "2020-01-24",
     "nomacheteur": "Proclub",
     "titulaire": [
-      "BERNARD",
-      "BIOFINESSE",
-      "SYSCO BRAKE",
-      "SYSCO DAVIGEL",
-      "EPISAVEURS Groupe POMONA",
-      "ESPRI RESTAURATION",
-      "FRANCE FRAIS",
-      "PASSIONFROID Groupe POMONA",
-      "METRO FSD France - PRO A PRO",
-      "RESEAU KRILL",
-      "SARL JOASSAN Frères",
-      "SDA"
+      "[{'DENOMINATION': 'BERNARD', 'ADRESSE': 'Kerbethune Moréac', 'CP': '56501', 'VILLE': 'LOCMINE', 'CODE_NUTS': 'FRH04', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'BIOFINESSE', 'ADRESSE': '1 Impasse du Marché Gare', 'CP': '31200', 'VILLE': 'TOULOUSE', 'CODE_NUTS': 'FRJ23', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SYSCO BRAKE', 'ADRESSE': '140 Allée des Frênes', 'CP': '69760', 'VILLE': 'LIMONEST', 'CODE_NUTS': 'FRK26', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SYSCO DAVIGEL', 'ADRESSE': 'BP 41', 'CP': '76201', 'VILLE': 'DIEPPE', 'CODE_NUTS': 'FRD22', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'EPISAVEURS Groupe POMONA', 'ADRESSE': '3 Avenue du Docteur Ténine', 'CP': '92184', 'VILLE': 'ANTONY', 'CODE_NUTS': 'FR105', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'ESPRI RESTAURATION', 'ADRESSE': '2 Avenue Lavoisier', 'CP': '91330', 'VILLE': 'WISSOUS', 'CODE_NUTS': 'FR104', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'FRANCE FRAIS', 'ADRESSE': 'Route de Combertault', 'CP': '21200', 'VILLE': 'SAINTE MARIE LA BLANCHE', 'CODE_NUTS': 'FRC11', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'PASSIONFROID Groupe POMONA', 'ADRESSE': '2-4 Place du Général de Gaulle', 'CP': '92164', 'VILLE': 'ANTONY', 'CODE_NUTS': 'FR105', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'METRO FSD France - PRO A PRO', 'ADRESSE': '3 Rue Voltaire', 'CP': '82000', 'VILLE': 'MONTAUBAN', 'CODE_NUTS': 'FRJ28', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'RESEAU KRILL', 'ADRESSE': '5 Rue Etienne Lenoir', 'CP': '85505', 'VILLE': 'LES HERBIERS', 'CODE_NUTS': 'FRG05', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SARL JOASSAN Frères', 'ADRESSE': \"Quartier l'Eyrouse\", 'CP': '04150', 'VILLE': 'REVEST DU BION', 'CODE_NUTS': 'FRL01', 'PAYS': 'FR', 'PME_NON': ''}, {'DENOMINATION': 'SDA', 'ADRESSE': \"ZI de L'Hermitage\", 'CP': '44154', 'VILLE': 'ANCENIS', 'CODE_NUTS': 'FRG01', 'PAYS': 'FR', 'PME_NON': ''}]"
     ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
