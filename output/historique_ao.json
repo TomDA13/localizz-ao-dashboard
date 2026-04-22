@@ -34,7 +34,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-29788",
@@ -71,7 +72,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-28638",
@@ -108,7 +110,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-28114",
@@ -145,7 +148,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-27524",
@@ -185,7 +189,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-26433",
@@ -222,7 +227,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-25982",
@@ -259,7 +265,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-19203",
@@ -296,7 +303,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-18132",
@@ -333,7 +341,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-16645",
@@ -370,7 +379,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-14754",
@@ -405,7 +415,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "26-13767",
@@ -442,7 +453,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-13839",
@@ -479,7 +491,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-12462",
@@ -516,7 +529,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-9867",
@@ -551,7 +565,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "26-7142",
@@ -588,7 +603,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "26-3941",
@@ -626,7 +642,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "26-1317",
@@ -663,7 +680,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-303",
@@ -700,7 +718,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "26-231",
@@ -737,7 +756,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-142881",
@@ -774,7 +794,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-143140",
@@ -811,7 +832,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-141487",
@@ -848,7 +870,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-141150",
@@ -885,7 +908,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-140588",
@@ -922,7 +946,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-132900",
@@ -959,7 +984,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-128845",
@@ -998,7 +1024,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-124350",
@@ -1035,7 +1062,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-119190",
@@ -1072,7 +1100,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-116769",
@@ -1109,7 +1138,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-115161",
@@ -1146,7 +1176,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-115158",
@@ -1183,7 +1214,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-112879",
@@ -1220,7 +1252,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-107295",
@@ -1257,7 +1290,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-106588",
@@ -1294,7 +1328,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-93384",
@@ -1332,7 +1367,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-90643",
@@ -1369,7 +1405,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-89624",
@@ -1406,7 +1443,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-82967",
@@ -1443,7 +1481,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-80794",
@@ -1480,7 +1519,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-79525",
@@ -1517,7 +1557,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-75901",
@@ -1554,7 +1595,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-72541",
@@ -1589,7 +1631,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "25-68687",
@@ -1626,7 +1669,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-61090",
@@ -1663,7 +1707,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-53196",
@@ -1701,7 +1746,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-40206",
@@ -1738,7 +1784,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-34990",
@@ -1775,7 +1822,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-32443",
@@ -1810,7 +1858,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "25-29356",
@@ -1845,7 +1894,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "25-20233",
@@ -1882,7 +1932,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-14573",
@@ -1919,7 +1970,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-5217",
@@ -1957,7 +2009,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-5009",
@@ -1994,7 +2047,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-4857",
@@ -2038,7 +2092,8 @@
         "montant_ht": "47000.00",
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "25-3836",
@@ -2075,7 +2130,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-3113",
@@ -2112,7 +2168,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-2111",
@@ -2149,7 +2206,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-1032",
@@ -2186,7 +2244,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "25-1013",
@@ -2223,7 +2282,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-145829",
@@ -2260,7 +2320,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-143721",
@@ -2297,7 +2358,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-141913",
@@ -2334,7 +2396,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-136719",
@@ -2369,7 +2432,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-137574",
@@ -2413,7 +2477,8 @@
         "montant_ht": "49000.00",
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-134480",
@@ -2450,7 +2515,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-131222",
@@ -2492,7 +2558,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-128308",
@@ -2529,7 +2596,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-125096",
@@ -2566,7 +2634,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-117676",
@@ -2603,7 +2672,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-113126",
@@ -2640,7 +2710,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-107290",
@@ -2675,7 +2746,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-107028",
@@ -2712,7 +2784,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-105639",
@@ -2750,7 +2823,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-105448",
@@ -2788,7 +2862,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-96211",
@@ -2830,7 +2905,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-94545",
@@ -2848,14 +2924,14 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-94545",
     "LOTS": [],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
+    "Duree_totale_mois": 12,
     "reconduction_description": "",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "date_debut": "2024-05-30",
+    "date_fin": "2025-05-30",
+    "date_fin_max": "2025-05-30",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -2867,7 +2943,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-92806",
@@ -2902,7 +2979,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-92678",
@@ -2939,7 +3017,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-91447",
@@ -2974,7 +3053,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-86835",
@@ -3011,7 +3091,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-82625",
@@ -3049,7 +3130,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-79121",
@@ -3084,7 +3166,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-78351",
@@ -3121,7 +3204,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-70397",
@@ -3158,7 +3242,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-66339",
@@ -3193,7 +3278,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-65943",
@@ -3230,7 +3316,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-63124",
@@ -3265,7 +3352,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-62158",
@@ -3302,7 +3390,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-53634",
@@ -3339,7 +3428,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-53022",
@@ -3374,7 +3464,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-51687",
@@ -3415,7 +3506,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-50894",
@@ -3456,7 +3548,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-41111",
@@ -3491,7 +3584,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-41432",
@@ -3528,7 +3622,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-30037",
@@ -3563,7 +3658,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-19163",
@@ -3598,7 +3694,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-17335",
@@ -3633,7 +3730,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-8990",
@@ -3668,7 +3766,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "24-4799",
@@ -3713,14 +3812,14 @@
       "VIANDE DE TAUREAU BIO",
       "FRUITS ET LEGUMES FRAIS BIO DE SAISON - LOT RESERVE"
     ],
-    "Duree_initiale_mois": 12,
+    "Duree_initiale_mois": 36,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": 12,
-    "reconduction_description": "L'accord-cadre peut être reconduit par période successive de 1 an pour une durée maximale de reconduction de 3 ans, sans que ce délai ne puisse excéder le 31.12.2027.",
+    "Duree_totale_mois": 36,
+    "reconduction_description": "",
     "date_debut": "2024-01-09",
-    "date_fin": "2025-01-09",
-    "date_fin_max": "2025-01-09",
+    "date_fin": "2027-01-09",
+    "date_fin_max": "2027-01-09",
     "montant_total_ht": 15640000.0,
     "decisions": [
       {
@@ -3894,7 +3993,8 @@
         "montant_ht": "240000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-2231",
@@ -3996,7 +4096,8 @@
         "montant_ht": "913973.36",
         "nb_offres": "5"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-2312",
@@ -4089,7 +4190,8 @@
         "montant_ht": "518900",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-180686",
@@ -4296,7 +4398,8 @@
         "montant_ht": "120000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "24-475",
@@ -4326,7 +4429,8 @@
     "date_fin": "2025-01-03",
     "date_fin_max": "2025-01-03",
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": false
   },
   {
     "idweb": "24-263",
@@ -4356,7 +4460,8 @@
     "date_fin": null,
     "date_fin_max": null,
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": true
   },
   {
     "idweb": "23-180100",
@@ -4386,7 +4491,8 @@
     "date_fin": null,
     "date_fin_max": null,
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": true
   },
   {
     "idweb": "23-177752",
@@ -4511,7 +4617,8 @@
         "montant_ht": "391871",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "23-178037",
@@ -4649,7 +4756,8 @@
         "montant_ht": "45000",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "23-176583",
@@ -4701,7 +4809,8 @@
         "montant_ht": "12000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "23-178338",
@@ -4728,7 +4837,8 @@
     "date_fin": null,
     "date_fin_max": null,
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": true
   },
   {
     "idweb": "23-175341",
@@ -4769,7 +4879,8 @@
         "montant_ht": "120331",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-175431",
@@ -4820,7 +4931,8 @@
         "montant_ht": "64195.65",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-175344",
@@ -4861,7 +4973,8 @@
         "montant_ht": "168054.64",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-174872",
@@ -4998,7 +5111,8 @@
         "montant_ht": "35000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "23-171736",
@@ -5243,7 +5357,8 @@
         "montant_ht": "60000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-169141",
@@ -5287,7 +5402,8 @@
         "montant_ht": "480000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-169178",
@@ -5316,7 +5432,7 @@
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
     "Duree_totale_mois": 12,
-    "reconduction_description": "En application des dispositions de l'article L2125-1 du Code de la commande publique, l'accord cadre est conclu pour une durée ferme de 12 mois à compter du 1er février 2024. À l'issue de cette période, il est reconductible trois fois pour une période de douze mois chacune, par tacite reconduction sauf dénonciation de l'une des parties, sans que la durée totale n'excède 4 ans.",
+    "reconduction_description": "",
     "date_debut": "2023-11-28",
     "date_fin": "2024-11-28",
     "date_fin_max": "2024-11-28",
@@ -5331,7 +5447,8 @@
         "montant_ht": "326400",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-168997",
@@ -5387,7 +5504,8 @@
         "montant_ht": "140000",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-157783",
@@ -5429,7 +5547,8 @@
         "montant_ht": "10509.89",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-156249",
@@ -5514,7 +5633,8 @@
         "montant_ht": "19480",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-158074",
@@ -5541,7 +5661,8 @@
     "date_fin": null,
     "date_fin_max": null,
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": true
   },
   {
     "idweb": "23-94463",
@@ -5584,7 +5705,8 @@
         "montant_ht": "800000",
         "nb_offres": "6"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-155056",
@@ -5606,14 +5728,14 @@
     "LOTS": [
       "Lot ?"
     ],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "Le contrat est susceptible d'être reconduit dans les conditions du cahier des charges.Marché pluriannuel de fournitures conclu pour une durée maximale de 48 mois (4 périodes de 12 mois)",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_totale_mois": 48,
+    "reconduction_description": "",
+    "date_debut": "2023-11-06",
+    "date_fin": "2027-11-06",
+    "date_fin_max": "2027-11-06",
     "montant_total_ht": 839671.0,
     "decisions": [
       {
@@ -5625,7 +5747,8 @@
         "montant_ht": "839671",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-152628",
@@ -5803,7 +5926,8 @@
         "montant_ht": "120000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-149176",
@@ -5892,7 +6016,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-148158",
@@ -5953,7 +6078,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-133636",
@@ -5994,7 +6120,8 @@
         "montant_ht": "240000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-115301",
@@ -6012,16 +6139,17 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:23-115301",
     "LOTS": [],
-    "Duree_initiale_mois": 12,
+    "Duree_initiale_mois": 36,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": 12,
+    "Duree_totale_mois": 36,
     "reconduction_description": "",
     "date_debut": "2023-08-16",
-    "date_fin": "2024-08-16",
-    "date_fin_max": "2024-08-16",
+    "date_fin": "2026-08-16",
+    "date_fin_max": "2026-08-16",
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": false
   },
   {
     "idweb": "23-113684",
@@ -6237,7 +6365,8 @@
         "montant_ht": "23200",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-113435",
@@ -6343,7 +6472,8 @@
         "montant_ht": "60000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-113048",
@@ -6384,7 +6514,8 @@
         "montant_ht": "1680000",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "23-109156",
@@ -6433,7 +6564,8 @@
         "montant_ht": "9765",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "23-84761",
@@ -6484,7 +6616,8 @@
         "montant_ht": "400000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-82224",
@@ -6539,7 +6672,8 @@
         "montant_ht": "9600000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-77756",
@@ -6578,7 +6712,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-74947",
@@ -6619,7 +6754,8 @@
         "montant_ht": "1012191",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-73038",
@@ -6660,7 +6796,8 @@
         "montant_ht": "240896",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "23-64288",
@@ -6733,7 +6870,8 @@
         "montant_ht": "105000",
         "nb_offres": "7"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-64653",
@@ -6765,14 +6903,14 @@
       "Lot 3",
       "Lot 4"
     ],
-    "Duree_initiale_mois": 48,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": 48,
-    "reconduction_description": "L'accord-cadre prend effet à compter de la notification pour une durée initiale de 12 mois.L'accord-cadre pourra être tacitement reconduit trois fois.",
+    "Duree_totale_mois": 12,
+    "reconduction_description": "",
     "date_debut": "2023-04-24",
-    "date_fin": "2027-04-24",
-    "date_fin_max": "2027-04-24",
+    "date_fin": "2024-04-24",
+    "date_fin_max": "2024-04-24",
     "montant_total_ht": 461213.56000000006,
     "decisions": [
       {
@@ -6811,7 +6949,8 @@
         "montant_ht": "81846.64",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-37646",
@@ -6977,7 +7116,8 @@
         "montant_ht": "43790",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-34023",
@@ -7102,7 +7242,8 @@
         "montant_ht": "240000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "23-31897",
@@ -7205,7 +7346,8 @@
         "montant_ht": "192300",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-27171",
@@ -7331,7 +7473,8 @@
         "montant_ht": "15000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-26395",
@@ -7497,7 +7640,8 @@
         "montant_ht": "9200",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-21959",
@@ -7589,7 +7733,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-18683",
@@ -7623,14 +7768,14 @@
       "Maison d'Arrêt de Nice",
       "Maison Centrale d'Arles"
     ],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "Il est conclu pour une durée initiale de 12 mois à compter du 1er janvier 2023. Il est reconductible a trois reprises pour une durée de douze mois chacune.",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_totale_mois": 12,
+    "reconduction_description": "",
+    "date_debut": "2022-12-09",
+    "date_fin": "2023-12-09",
+    "date_fin_max": "2023-12-09",
     "montant_total_ht": 284558.0,
     "decisions": [
       {
@@ -7705,7 +7850,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-16010",
@@ -7755,7 +7901,8 @@
         "montant_ht": "391000",
         "nb_offres": "16"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-13946",
@@ -7925,7 +8072,8 @@
         "montant_ht": "472000",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-10717",
@@ -8081,7 +8229,8 @@
         "montant_ht": "240000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-9944",
@@ -8405,7 +8554,8 @@
         "montant_ht": "127166",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-8497",
@@ -8621,7 +8771,8 @@
         "montant_ht": "54500",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "23-3828",
@@ -8746,7 +8897,8 @@
         "montant_ht": "90000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "23-157",
@@ -8773,7 +8925,8 @@
     "date_fin": null,
     "date_fin_max": null,
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": true
   },
   {
     "idweb": "22-158805",
@@ -8800,7 +8953,8 @@
     "date_fin": null,
     "date_fin_max": null,
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": true
   },
   {
     "idweb": "22-172060",
@@ -8863,7 +9017,8 @@
         "montant_ht": "22000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-171912",
@@ -8890,7 +9045,8 @@
     "date_fin": null,
     "date_fin_max": null,
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": true
   },
   {
     "idweb": "22-168692",
@@ -8996,7 +9152,8 @@
         "montant_ht": "56000",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-165530",
@@ -9113,7 +9270,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-165597",
@@ -9244,7 +9402,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-164943",
@@ -9362,7 +9521,8 @@
         "montant_ht": "129320",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-163014",
@@ -9671,7 +9831,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "22-161005",
@@ -9713,7 +9874,8 @@
         "montant_ht": null,
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-147439",
@@ -9740,7 +9902,8 @@
     "date_fin": null,
     "date_fin_max": null,
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": true
   },
   {
     "idweb": "22-135627",
@@ -9781,7 +9944,8 @@
         "montant_ht": "2172000.00",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-134201",
@@ -9814,11 +9978,11 @@
       "-Lot 8 : Fourniture et livraison de viande fraîche de taureau et prestations accessoires pour la centrale d'achat régionale - Départements 13 et 84",
       "-Lot 9 : Fourniture et livraison de viande fraîche de taureau et prestations accessoires pour la centrale d'achat régionale - Départements 83 et 06"
     ],
-    "Duree_initiale_mois": 12,
-    "nb_reconductions": 3,
-    "duree_reconduction_mois": 48,
+    "Duree_initiale_mois": 48,
+    "nb_reconductions": 0,
+    "duree_reconduction_mois": 0,
     "Duree_totale_mois": 48,
-    "reconduction_description": "La durée de l'accord-cadre est d'un an à compter de la notification au titulaire, reconductible 3 fois pour périodes d'égale durée par reconduction tacite sans que sa durée totale puisse excéder 4 ans",
+    "reconduction_description": "",
     "date_debut": "2022-10-02",
     "date_fin": "2026-10-02",
     "date_fin_max": "2026-10-02",
@@ -9905,7 +10069,8 @@
         "montant_ht": "14720",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-118162",
@@ -9989,7 +10154,8 @@
         "montant_ht": "160000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-117502",
@@ -10064,7 +10230,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-116830",
@@ -10131,7 +10298,8 @@
         "montant_ht": "680000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-93601",
@@ -10153,14 +10321,14 @@
     "LOTS": [
       "Lot ?"
     ],
-    "Duree_initiale_mois": 12,
-    "nb_reconductions": 3,
+    "Duree_initiale_mois": 48,
+    "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": 12,
-    "reconduction_description": "Le marché est conclu pour une période initiale de 12 mois à compter de la date de notification. Il pourra être reconduit expressément 3 fois sans que la durée totale n'excède 4 ans",
+    "Duree_totale_mois": 48,
+    "reconduction_description": "",
     "date_debut": "2022-07-07",
-    "date_fin": "2023-07-07",
-    "date_fin_max": "2023-07-07",
+    "date_fin": "2026-07-07",
+    "date_fin_max": "2026-07-07",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -10172,7 +10340,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-80963",
@@ -10289,7 +10458,8 @@
         "montant_ht": "240000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "22-88503",
@@ -10319,7 +10489,8 @@
     "date_fin": null,
     "date_fin_max": null,
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": true
   },
   {
     "idweb": "22-87339",
@@ -10360,7 +10531,8 @@
         "montant_ht": "193430",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-61856",
@@ -10401,7 +10573,8 @@
         "montant_ht": "2500000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "22-54633",
@@ -10457,7 +10630,8 @@
         "montant_ht": "240000",
         "nb_offres": "04"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "22-42556",
@@ -10571,7 +10745,8 @@
         "montant_ht": "38800",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "22-33965",
@@ -10633,7 +10808,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-31091",
@@ -10710,7 +10886,8 @@
         "montant_ht": "100000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "22-32296",
@@ -10750,7 +10927,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "22-21837",
@@ -10823,7 +11001,8 @@
         "montant_ht": "734500",
         "nb_offres": "25"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-19390",
@@ -10876,7 +11055,8 @@
         "montant_ht": "391000",
         "nb_offres": "15"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-17327",
@@ -11002,7 +11182,8 @@
         "montant_ht": "30000",
         "nb_offres": "9"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-11071",
@@ -11028,14 +11209,14 @@
       "Sites de Sophia-Antipolis",
       "Sites du Var"
     ],
-    "Duree_initiale_mois": 18,
+    "Duree_initiale_mois": 48,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": 18,
-    "reconduction_description": "La durée du marché est fixée pour une période ferme courant de la notification jusqu'au 31 juillet 2023.Le marché pourra ensuite être renouvelé deux fois expressément pour une durée d'un an, sans que la durée totale n'excède 4 ans. Les périodes de reconduction démarreront au 1er août et se termineront au 31 juillet",
+    "Duree_totale_mois": 48,
+    "reconduction_description": "",
     "date_debut": "2022-01-10",
-    "date_fin": "2023-07-10",
-    "date_fin_max": "2023-07-10",
+    "date_fin": "2026-01-10",
+    "date_fin_max": "2026-01-10",
     "montant_total_ht": 520000.0,
     "decisions": [
       {
@@ -11065,7 +11246,8 @@
         "montant_ht": "100000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-11448",
@@ -11148,7 +11330,8 @@
         "montant_ht": "60000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "22-2634",
@@ -11263,7 +11446,8 @@
         "montant_ht": "607440.24",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "22-2833",
@@ -11417,7 +11601,8 @@
         "montant_ht": "72945.73",
         "nb_offres": "6"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "21-170203",
@@ -11541,7 +11726,8 @@
         "montant_ht": "1128",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-169046",
@@ -11698,7 +11884,8 @@
         "montant_ht": "20000",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "21-168995",
@@ -11821,7 +12008,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-143311",
@@ -11887,7 +12075,8 @@
         "montant_ht": "520559.8",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-139191",
@@ -11960,7 +12149,8 @@
         "montant_ht": "22560.4",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-133579",
@@ -12001,7 +12191,8 @@
         "montant_ht": "210496.16",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-133365",
@@ -12042,7 +12233,8 @@
         "montant_ht": "920000",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-120707",
@@ -12081,7 +12273,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "21-117293",
@@ -12103,14 +12296,14 @@
     "LOTS": [
       "Lot ?"
     ],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 36,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": null,
-    "reconduction_description": "Le marché peut être reconduit par période successive de 1 an pour une durée maximale de reconduction de 3 ans. La reconduction est tacite et donc considérée comme acceptée si aucune décision écrite contraire n'est prise par l'acheteur. Le titulaire ne peut s'y opposer",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "Duree_totale_mois": 36,
+    "reconduction_description": "",
+    "date_debut": "2021-08-12",
+    "date_fin": "2024-08-12",
+    "date_fin_max": "2024-08-12",
     "montant_total_ht": 760000.0,
     "decisions": [
       {
@@ -12122,7 +12315,8 @@
         "montant_ht": "760000",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-117289",
@@ -12146,14 +12340,14 @@
       "Produits laitiers",
       "Ovoproduits"
     ],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 36,
     "nb_reconductions": 0,
-    "duree_reconduction_mois": 12,
-    "Duree_totale_mois": null,
-    "reconduction_description": "Chaque marché peut être reconduit par période successive de 1 an pour une durée maximale de reconduction de 3 ans. La reconduction est tacite et donc considérée comme acceptée si aucune décision écrite contraire n'est prise par l'acheteur. Le titulaire ne peut s'y opposer",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "duree_reconduction_mois": 0,
+    "Duree_totale_mois": 36,
+    "reconduction_description": "",
+    "date_debut": "2021-08-12",
+    "date_fin": "2024-08-12",
+    "date_fin_max": "2024-08-12",
     "montant_total_ht": 1800000.0,
     "decisions": [
       {
@@ -12174,7 +12368,8 @@
         "montant_ht": "320000",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-117292",
@@ -12198,14 +12393,14 @@
       "Produits surgelés hors produits halieutiques",
       "Produits halieutiques surgelés"
     ],
-    "Duree_initiale_mois": null,
+    "Duree_initiale_mois": 36,
     "nb_reconductions": 0,
-    "duree_reconduction_mois": 12,
-    "Duree_totale_mois": null,
-    "reconduction_description": "Chaque marché peut être reconduit par période successive de 1 an pour une durée maximale de reconduction de 3 ans. La reconduction est tacite et donc considérée comme acceptée si aucune décision écrite contraire n'est prise par l'acheteur. Le titulaire ne peut s'y opposer",
-    "date_debut": null,
-    "date_fin": null,
-    "date_fin_max": null,
+    "duree_reconduction_mois": 0,
+    "Duree_totale_mois": 36,
+    "reconduction_description": "",
+    "date_debut": "2021-08-09",
+    "date_fin": "2024-08-09",
+    "date_fin_max": "2024-08-09",
     "montant_total_ht": 2620000.0,
     "decisions": [
       {
@@ -12226,7 +12421,8 @@
         "montant_ht": "960000",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-112578",
@@ -12331,7 +12527,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-111140",
@@ -12386,7 +12583,8 @@
         "montant_ht": "30000",
         "nb_offres": "5"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-110480",
@@ -12524,7 +12722,8 @@
         "montant_ht": "359358.76",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-107117",
@@ -12565,7 +12764,8 @@
         "montant_ht": "432290",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-94438",
@@ -12592,7 +12792,8 @@
     "date_fin": null,
     "date_fin_max": null,
     "montant_total_ht": null,
-    "decisions": []
+    "decisions": [],
+    "a_verifier": true
   },
   {
     "idweb": "21-96669",
@@ -12629,7 +12830,8 @@
         "montant_ht": "200000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "21-95966",
@@ -12941,7 +13143,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "21-87483",
@@ -13036,7 +13239,8 @@
         "montant_ht": "249560",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-87480",
@@ -13118,7 +13322,8 @@
         "montant_ht": "431644",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-84698",
@@ -13159,7 +13364,8 @@
         "montant_ht": "54105.52",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-83191",
@@ -13218,7 +13424,8 @@
         "montant_ht": "240000",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "21-69737",
@@ -13273,7 +13480,8 @@
         "montant_ht": "2000",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-68929",
@@ -13327,7 +13535,8 @@
         "montant_ht": "50000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-66154",
@@ -13386,7 +13595,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-60429",
@@ -13588,7 +13798,8 @@
         "montant_ht": "32000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-44774",
@@ -13629,7 +13840,8 @@
         "montant_ht": "186449",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-41321",
@@ -13765,7 +13977,8 @@
         "montant_ht": "628.79",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-38651",
@@ -13807,7 +14020,8 @@
         "montant_ht": "536560",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-32745",
@@ -13901,7 +14115,8 @@
         "montant_ht": "405",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-32746",
@@ -13954,7 +14169,8 @@
         "montant_ht": "95734",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-31793",
@@ -14113,7 +14329,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-23814",
@@ -14149,14 +14366,14 @@
       "Epicerie générale",
       "Fruits et légumes"
     ],
-    "Duree_initiale_mois": 36,
-    "nb_reconductions": 2,
-    "duree_reconduction_mois": 12,
-    "Duree_totale_mois": 60,
-    "reconduction_description": "Le marché relatif au lot commence à la date de l'accusé de réception de sa notification pour une durée initiale de 1 année(s) . Il est renouvelable 2 fois par reconduction tacite pour une période de 1 année(s) .",
+    "Duree_initiale_mois": 12,
+    "nb_reconductions": 0,
+    "duree_reconduction_mois": 0,
+    "Duree_totale_mois": 12,
+    "reconduction_description": "",
     "date_debut": "2021-03-01",
-    "date_fin": "2026-03-01",
-    "date_fin_max": "2026-03-01",
+    "date_fin": "2022-03-01",
+    "date_fin_max": "2022-03-01",
     "montant_total_ht": 454500.0,
     "decisions": [
       {
@@ -14222,7 +14439,8 @@
         "montant_ht": "51000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-29375",
@@ -14379,7 +14597,8 @@
         "montant_ht": "48964.8",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-19647",
@@ -14427,7 +14646,8 @@
         "montant_ht": "336000",
         "nb_offres": "14"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-16032",
@@ -14491,7 +14711,8 @@
         "montant_ht": "2000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-14616",
@@ -14532,7 +14753,8 @@
         "montant_ht": "60000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-10249",
@@ -14573,7 +14795,8 @@
         "montant_ht": null,
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "21-1996",
@@ -14635,7 +14858,8 @@
         "montant_ht": "33000",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "21-685",
@@ -15210,7 +15434,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-158758",
@@ -15461,7 +15686,8 @@
         "montant_ht": "36000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-156072",
@@ -15501,7 +15727,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-155899",
@@ -15574,7 +15801,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-156060",
@@ -15614,7 +15842,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-155934",
@@ -15654,7 +15883,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-155878",
@@ -15706,7 +15936,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-153587",
@@ -15747,7 +15978,8 @@
         "montant_ht": "420000",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-152132",
@@ -15798,7 +16030,8 @@
         "montant_ht": "248000",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-151681",
@@ -15839,7 +16072,8 @@
         "montant_ht": "510000",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-150789",
@@ -15945,7 +16179,8 @@
         "montant_ht": "180000",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-149175",
@@ -15997,7 +16232,8 @@
         "montant_ht": "8344.7",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-146971",
@@ -16142,7 +16378,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-146835",
@@ -16236,7 +16473,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-141098",
@@ -16402,7 +16640,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-138666",
@@ -16562,7 +16801,8 @@
         "montant_ht": "9000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-133820",
@@ -16613,7 +16853,8 @@
         "montant_ht": "80000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-129416",
@@ -16654,7 +16895,8 @@
         "montant_ht": "746365.71",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-129238",
@@ -16736,7 +16978,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-113460",
@@ -16785,7 +17028,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-112960",
@@ -16828,7 +17072,8 @@
         "montant_ht": "594176",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-111560",
@@ -16983,7 +17228,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-104703",
@@ -17109,7 +17355,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-103870",
@@ -17150,7 +17397,8 @@
         "montant_ht": "480000",
         "nb_offres": "5"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-102827",
@@ -17203,7 +17451,8 @@
         "montant_ht": "216000.00",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-100121",
@@ -17259,7 +17508,8 @@
         "montant_ht": "60000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-92107",
@@ -17333,7 +17583,8 @@
         "montant_ht": "916666",
         "nb_offres": "7"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-88255",
@@ -17375,7 +17626,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-82738",
@@ -17427,7 +17679,8 @@
         "montant_ht": "7000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-76976",
@@ -17467,7 +17720,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-74279",
@@ -17561,7 +17815,8 @@
         "montant_ht": "13827.1",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-70901",
@@ -17602,7 +17857,8 @@
         "montant_ht": "169279.22",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-68917",
@@ -17644,7 +17900,8 @@
         "montant_ht": "628760",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-59562",
@@ -17685,7 +17942,8 @@
         "montant_ht": "280000.00",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-50728",
@@ -17727,7 +17985,8 @@
         "montant_ht": null,
         "nb_offres": "7"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-50523",
@@ -17803,7 +18062,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-48700",
@@ -17933,7 +18193,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-36358",
@@ -18156,7 +18417,8 @@
         "montant_ht": "36000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-32145",
@@ -18195,7 +18457,8 @@
         "montant_ht": null,
         "nb_offres": ""
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-26287",
@@ -18267,7 +18530,8 @@
         "montant_ht": "1",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-26357",
@@ -18349,7 +18613,8 @@
         "montant_ht": "600000",
         "nb_offres": "4"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-13302",
@@ -18530,7 +18795,8 @@
         "montant_ht": "5066.04",
         "nb_offres": "3"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-13702",
@@ -18573,7 +18839,8 @@
         "montant_ht": "1.89",
         "nb_offres": "5"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-9996",
@@ -18622,7 +18889,8 @@
         "montant_ht": "306000",
         "nb_offres": "16"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "20-7416",
@@ -18854,7 +19122,8 @@
         "montant_ht": "75000",
         "nb_offres": "2"
       }
-    ]
+    ],
+    "a_verifier": false
   },
   {
     "idweb": "19-190027",
@@ -18906,7 +19175,8 @@
         "montant_ht": null,
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": true
   },
   {
     "idweb": "20-1759",
@@ -18954,14 +19224,14 @@
       "Fruits exotiques et agrumes (y compris bio)",
       "Produits issus du commerce équitable"
     ],
-    "Duree_initiale_mois": 12,
+    "Duree_initiale_mois": 36,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
-    "Duree_totale_mois": 12,
-    "reconduction_description": "L'accord-cadre peut être reconduit par période successive de 1 an pour une durée maximale de reconduction de 3 ans, sans que ce délai ne puisse excéder le 31.12.2023.",
+    "Duree_totale_mois": 36,
+    "reconduction_description": "",
     "date_debut": "2019-12-27",
-    "date_fin": "2020-12-27",
-    "date_fin_max": "2020-12-27",
+    "date_fin": "2022-12-27",
+    "date_fin_max": "2022-12-27",
     "montant_total_ht": 7220000.0,
     "decisions": [
       {
@@ -19117,6 +19387,7 @@
         "montant_ht": "100000",
         "nb_offres": "1"
       }
-    ]
+    ],
+    "a_verifier": false
   }
 ]
