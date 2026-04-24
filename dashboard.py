@@ -63,16 +63,21 @@ def load_data():
     for item in raw:
         date_debut = item.get("date_debut")
         date_fin = item.get("date_fin")
+        # date_fin_max = fin réelle avec reconductions (la vraie échéance)
+        date_fin_max = item.get("date_fin_max") or date_fin
 
         try:
             dt_debut = pd.to_datetime(date_debut) if date_debut else None
             dt_fin = pd.to_datetime(date_fin) if date_fin else None
+            dt_fin_max = pd.to_datetime(date_fin_max) if date_fin_max else dt_fin
         except Exception:
             continue
 
         today = pd.Timestamp.now()
-        if dt_fin:
-            days_left = (dt_fin - today).days
+        # Le statut se calcule sur date_fin_max (avec reconductions)
+        ref_fin = dt_fin_max or dt_fin
+        if ref_fin:
+            days_left = (ref_fin - today).days
             if days_left < 0:
                 status = "Expiré"
             elif days_left <= 90:
@@ -108,7 +113,7 @@ def load_data():
             "Objet_complet": item.get("objet", ""),
             "Acheteur": item.get("nomacheteur", ""),
             "Start": dt_debut,
-            "Finish": dt_fin,
+            "Finish": dt_fin_max or dt_fin,  # Timeline sur la fin max (reconductions)
             "Date_parution": item.get("dateparution", ""),
             "Départements": departments,
             "Dept_str": ", ".join(str(d) for d in departments),
