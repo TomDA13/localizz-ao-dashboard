@@ -835,9 +835,9 @@
     "nomacheteur": "MAIRIE DE VEDENE",
     "titulaire": [
       "POMONA",
-      "SYSCO FRANCE SAS",
+      "SYSCO FRANCE",
       "LANGUEDOC LOZERE VIANDE",
-      "Société de Distribution Avicole SAS",
+      "SDA",
       "POMONA EPISAVEURS"
     ],
     "nature_libelle": "Résultat de marché",
@@ -846,24 +846,25 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-1317",
     "LOTS": [
-      "Produits surgelés : Légumes, viandes, plats préparés et desserts",
+      "Surgelés",
       "Poissons surgelés",
-      "Viandes fraiches (hors volailles)",
-      "Volailles fraiches",
+      "F&L frais (infructueux)",
+      "Viandes fraîches",
+      "Volailles",
       "Charcuteries",
-      "Produits laitiers et ovoproduits",
-      "Epicerie sèche et boissons",
-      "Produits surgelés, frais et d'épicerie issus de l'agriculture biologique"
+      "Produits laitiers",
+      "Epicerie boissons",
+      "Bio"
     ],
-    "Duree_initiale_mois": 25,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 1,
-    "duree_reconduction_mois": 6,
-    "Duree_totale_mois": 31,
+    "duree_reconduction_mois": 13,
+    "Duree_totale_mois": 25,
     "reconduction_description": "1 reconductions de 6 mois",
     "date_debut": "2026-01-01",
-    "date_fin": "2028-02-01",
-    "date_fin_max": "2028-08-01",
-    "date_source": "PlannedPeriod",
+    "date_fin": "2027-01-01",
+    "date_fin_max": "2028-01-17",
+    "date_source": "PDF_verifie",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1321,18 +1322,18 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-124350",
     "LOTS": [
-      "Db03-Viande de porc Bio fraîche ou surgelée",
-      "Dc04-Viande fraîche de veau piècée à la demande"
+      "Viande porc BIO",
+      "Viande veau piècée"
     ],
     "Duree_initiale_mois": 15,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
     "Duree_totale_mois": 15,
     "reconduction_description": "",
-    "date_debut": "2025-10-15",
-    "date_fin": "2027-01-15",
-    "date_fin_max": "2027-01-15",
-    "date_source": "PlannedPeriod",
+    "date_debut": "2025-10-07",
+    "date_fin": "2027-01-07",
+    "date_fin_max": "2027-01-07",
+    "date_source": "PDF_verifie",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1355,22 +1356,26 @@
     ],
     "dateparution": "2025-10-24",
     "nomacheteur": "Ville Des Pennes Mirabeau",
-    "titulaire": [],
+    "titulaire": [
+      "AU GERMIER LEVAIN"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-100334"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-119190",
-    "LOTS": [],
+    "LOTS": [
+      "Pain bio tradition française, viennoiseries"
+    ],
     "Duree_initiale_mois": 12,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": 12,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 12,
+    "Duree_totale_mois": 48,
     "reconduction_description": "",
     "date_debut": "2025-10-24",
     "date_fin": "2026-10-24",
-    "date_fin_max": "2026-10-24",
-    "date_source": "dateparution_fallback",
+    "date_fin_max": "2029-10-24",
+    "date_source": "manuel",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1564,22 +1569,26 @@
     ],
     "dateparution": "2025-09-26",
     "nomacheteur": "Mairie de Gémenos",
-    "titulaire": [],
+    "titulaire": [
+      "FLEURONS DE LOMAGNE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "25-57791"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-107295",
-    "LOTS": [],
+    "LOTS": [
+      "Colis de Noël personnes âgées +65 ans"
+    ],
     "Duree_initiale_mois": 12,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": 12,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 12,
+    "Duree_totale_mois": 48,
     "reconduction_description": "",
-    "date_debut": "2025-09-26",
-    "date_fin": "2026-09-26",
-    "date_fin_max": "2026-09-26",
-    "date_source": "PDF_avis",
+    "date_debut": "2025-09-25",
+    "date_fin": "2026-09-25",
+    "date_fin_max": "2029-09-25",
+    "date_source": "manuel",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -3039,16 +3048,18 @@
       "24-88205"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-137574",
-    "LOTS": [],
+    "LOTS": [
+      "Pains frais boulangerie-pâtisserie"
+    ],
     "Duree_initiale_mois": 24,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
     "Duree_totale_mois": 24,
     "reconduction_description": "",
-    "date_debut": "2025-01-01",
-    "date_fin": "2027-01-01",
-    "date_fin_max": "2027-01-01",
-    "date_source": "PDF_avis",
+    "date_debut": "2024-11-28",
+    "date_fin": "2026-11-28",
+    "date_fin_max": "2026-11-28",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 49000.0,
     "decisions": [
       {
@@ -3367,22 +3378,26 @@
     ],
     "dateparution": "2024-09-20",
     "nomacheteur": "Ville d'Avignon",
-    "titulaire": [],
+    "titulaire": [
+      "BOULANGER RESPONSABLE"
+    ],
     "nature_libelle": "Résultat de marché",
     "annonce_lie": [
       "24-45177"
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:24-107028",
-    "LOTS": [],
+    "LOTS": [
+      "Pains viennoiseries pâtisseries frais et BIO"
+    ],
     "Duree_initiale_mois": 24,
     "nb_reconductions": 0,
     "duree_reconduction_mois": 0,
     "Duree_totale_mois": 24,
     "reconduction_description": "",
-    "date_debut": "2024-09-20",
-    "date_fin": "2026-09-20",
-    "date_fin_max": "2026-09-20",
-    "date_source": "PDF_avis",
+    "date_debut": "2024-08-07",
+    "date_fin": "2026-08-07",
+    "date_fin_max": "2026-08-07",
+    "date_source": "PDF_verifie",
     "montant_total_ht": null,
     "decisions": [
       {
