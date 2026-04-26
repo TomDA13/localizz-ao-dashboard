@@ -1281,15 +1281,15 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:25-128845",
     "LOTS": [],
-    "Duree_initiale_mois": 48,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
+    "Duree_initiale_mois": 12,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 12,
     "Duree_totale_mois": 48,
     "reconduction_description": "",
     "date_debut": "2025-09-25",
-    "date_fin": "2029-09-25",
+    "date_fin": "2026-09-25",
     "date_fin_max": "2029-09-25",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -1780,15 +1780,15 @@
       "Lot n° 21 : Viandes fraîches BIO",
       "Lot n° 22 : Viandes de volailles BIO"
     ],
-    "Duree_initiale_mois": 48,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 3,
     "duree_reconduction_mois": 12,
-    "Duree_totale_mois": 84,
+    "Duree_totale_mois": 48,
     "reconduction_description": "renouvelable 3 fois par reconduction expresse pour une période de 12 mois. La durée totale du marché est fixée à 48 mois.",
     "date_debut": "2025-06-03",
-    "date_fin": "2029-06-03",
-    "date_fin_max": "2032-06-03",
-    "date_source": "date_attribution",
+    "date_fin": "2026-06-03",
+    "date_fin_max": "2029-06-03",
+    "date_source": "PDF_verifie",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -3097,7 +3097,7 @@
     "date_debut": "2024-11-28",
     "date_fin": "2027-11-28",
     "date_fin_max": "2027-11-28",
-    "date_source": "dateparution_fallback",
+    "date_source": "PDF_verifie",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -4602,15 +4602,15 @@
       "VIANDE DE TAUREAU BIO",
       "FRUITS ET LEGUMES FRAIS BIO DE SAISON - LOT RESERVE"
     ],
-    "Duree_initiale_mois": 36,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
-    "Duree_totale_mois": 36,
+    "Duree_initiale_mois": 12,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 12,
+    "Duree_totale_mois": 48,
     "reconduction_description": "",
     "date_debut": "2024-01-09",
-    "date_fin": "2027-01-09",
-    "date_fin_max": "2027-01-09",
-    "date_source": "date_attribution",
+    "date_fin": "2025-01-09",
+    "date_fin_max": "2028-01-09",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 15640000.0,
     "decisions": [
       {
@@ -4924,7 +4924,7 @@
     "date_debut": "2024-01-08",
     "date_fin": "2027-08-08",
     "date_fin_max": "2027-08-08",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 1026188.0,
     "decisions": [
       {
@@ -6169,15 +6169,15 @@
     "LOTS": [
       "Lot ?"
     ],
-    "Duree_initiale_mois": 48,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
+    "Duree_initiale_mois": 12,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 12,
     "Duree_totale_mois": 48,
     "reconduction_description": "Le marché est conclu pour une période initiale de 1 an à compter de la date de notification du marché.Il est renouvelable trois fois pour une nouvelle période d'un an par reconduction tacite.",
     "date_debut": "2023-04-03",
-    "date_fin": "2027-04-03",
+    "date_fin": "2024-04-03",
     "date_fin_max": "2027-04-03",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 480000.0,
     "decisions": [
       {
@@ -6262,15 +6262,15 @@
       "Fourniture de fruits et légumes frais",
       "Fourniture de fruits et légumes frais local de saison"
     ],
-    "Duree_initiale_mois": 48,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
+    "Duree_initiale_mois": 12,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 12,
     "Duree_totale_mois": 48,
     "reconduction_description": "Le marché est conclu pour une période initiale de 1 an à compter de la date de notification du marché.Il est renouvelable trois fois pour une nouvelle période d'un an par reconduction tacite.",
     "date_debut": "2023-03-29",
-    "date_fin": "2027-03-29",
+    "date_fin": "2024-03-29",
     "date_fin_max": "2027-03-29",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 620000.0,
     "decisions": [
       {
@@ -6322,7 +6322,7 @@
     "date_debut": "2023-10-13",
     "date_fin": "2024-10-13",
     "date_fin_max": "2027-10-13",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 10509.89,
     "decisions": [
       {
@@ -6515,15 +6515,15 @@
     "LOTS": [
       "Lot ?"
     ],
-    "Duree_initiale_mois": 48,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
+    "Duree_initiale_mois": 12,
+    "nb_reconductions": 3,
+    "duree_reconduction_mois": 12,
     "Duree_totale_mois": 48,
     "reconduction_description": "",
     "date_debut": "2023-11-06",
-    "date_fin": "2027-11-06",
+    "date_fin": "2024-11-06",
     "date_fin_max": "2027-11-06",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 839671.0,
     "decisions": [
       {
@@ -6926,15 +6926,15 @@
     ],
     "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:23-115301",
     "LOTS": [],
-    "Duree_initiale_mois": 36,
-    "nb_reconductions": 0,
-    "duree_reconduction_mois": 0,
+    "Duree_initiale_mois": 12,
+    "nb_reconductions": 2,
+    "duree_reconduction_mois": 12,
     "Duree_totale_mois": 36,
     "reconduction_description": "",
     "date_debut": "2023-08-16",
-    "date_fin": "2026-08-16",
+    "date_fin": "2024-08-16",
     "date_fin_max": "2026-08-16",
-    "date_source": "dateparution_fallback",
+    "date_source": "PDF_verifie",
     "montant_total_ht": null,
     "decisions": []
   },
@@ -7194,7 +7194,7 @@
     "date_debut": "2023-08-04",
     "date_fin": "2027-08-04",
     "date_fin_max": "2027-08-04",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 1120000.0,
     "decisions": [
       {
@@ -7489,7 +7489,7 @@
     "date_debut": "2023-06-09",
     "date_fin": "2024-06-09",
     "date_fin_max": "2026-06-09",
-    "date_source": "dateparution_fallback",
+    "date_source": "PDF_verifie",
     "montant_total_ht": null,
     "decisions": [
       {
@@ -7531,7 +7531,7 @@
     "date_debut": "2023-06-01",
     "date_fin": "2024-06-01",
     "date_fin_max": "2027-06-01",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 1012191.0,
     "decisions": [
       {
@@ -7785,7 +7785,7 @@
     "date_debut": "2022-12-08",
     "date_fin": "2023-12-08",
     "date_fin_max": "2026-12-08",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 2085861.0,
     "decisions": [
       {
@@ -8318,7 +8318,7 @@
     "date_debut": "2022-12-09",
     "date_fin": "2024-12-09",
     "date_fin_max": "2026-12-09",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 168104.0,
     "decisions": [
       {
@@ -9871,15 +9871,15 @@
       "Fruits frais",
       "Fromages frais"
     ],
-    "Duree_initiale_mois": 48,
+    "Duree_initiale_mois": 12,
     "nb_reconductions": 3,
-    "duree_reconduction_mois": 48,
-    "Duree_totale_mois": 192,
+    "duree_reconduction_mois": 12,
+    "Duree_totale_mois": 48,
     "reconduction_description": "La durée des marchés est fixée à 12 mois dans la limite du montant maximum dengagement prévu.Ils sont renouvelables 3 fois par reconduction expresse pour une période de 12 mois. La durée totale des marchés est fixée à 48 mois.",
     "date_debut": "2022-06-15",
-    "date_fin": "2026-06-15",
-    "date_fin_max": "2038-06-15",
-    "date_source": "date_attribution",
+    "date_fin": "2023-06-15",
+    "date_fin_max": "2026-06-15",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 560000.0,
     "decisions": [
       {
@@ -10100,7 +10100,7 @@
     "date_debut": "2022-12-05",
     "date_fin": "2024-12-05",
     "date_fin_max": "2026-12-05",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 169600.0,
     "decisions": [
       {
@@ -10901,7 +10901,7 @@
     "date_debut": "2022-07-08",
     "date_fin": "2023-07-08",
     "date_fin_max": "2026-07-08",
-    "date_source": "date_attribution",
+    "date_source": "PDF_verifie",
     "montant_total_ht": 928000.0,
     "decisions": [
       {
